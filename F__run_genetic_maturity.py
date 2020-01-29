@@ -80,7 +80,7 @@ model_data.insert(3, 'PC', model_data['region'].map(pca_dict))
 significant_model_data = pd.concat((model_data[['sample','region','age', 'PC']], model_data[significant_genes]), axis=1)
 
 # number of bootstraps
-n_boot = 2
+n_boot = 5000
 
 ################################################################################################################
 
@@ -106,7 +106,7 @@ for d, dataset in  enumerate(datasets):
         testing_data = dataset.loc[(dataset['sample']==s),:]
 
         # predicted age differences (with n_boot bootstrapped gene selections)
-        predicted_age, correlation = predict_age_difference(training_data, testing_data, pipe, n_boot=5000)
+        predicted_age, correlation = predict_age_difference(training_data, testing_data, pipe, n_boot=n_boot)
 
         # record output
         out_data.loc[(out_data['sample']==s), 'mean_prediction'] = np.mean(predicted_age, axis=1)
@@ -155,7 +155,7 @@ for d, dataset in  enumerate(datasets):
     ax.tick_params(axis='both', which='major', labelsize=15)
     plt.tight_layout()
 	
-    if datanames=='significant_genes':
+    if datanames[d]=='significant_genes':
     	plt.savefig('graphs/Figure4B.pdf')
     	print('see graphs/Figure4B.pdf')
     else:
@@ -175,7 +175,8 @@ for d, dataset in  enumerate(datasets):
     ax1.text(220,0.3, ('r = %0.2f' % (np.corrcoef(correlation_df['age'], correlation_df['mean_correlation'])[0,1])), fontsize=15)
     plt.tight_layout()
     plt.xlim(75, 270)
-    if datanames=='significant_genes':
+
+    if datanames[d]=='significant_genes':
     	plt.savefig('graphs/Figure4C.pdf')
     	print('see graphs/Figure4C.pdf')
     else:
