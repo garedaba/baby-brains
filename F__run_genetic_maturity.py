@@ -80,7 +80,7 @@ model_data.insert(3, 'PC', model_data['region'].map(pca_dict))
 significant_model_data = pd.concat((model_data[['sample','region','age', 'PC']], model_data[significant_genes]), axis=1)
 
 # number of bootstraps
-n_boot = 10
+n_boot = 2
 
 ################################################################################################################
 
@@ -155,7 +155,7 @@ for d, dataset in  enumerate(datasets):
     ax.tick_params(axis='both', which='major', labelsize=15)
     plt.tight_layout()
 	
-    if dataset=='significant_genes':
+    if datanames=='significant_genes':
     	plt.savefig('graphs/Figure4B.pdf')
     	print('see graphs/Figure4B.pdf')
     else:
@@ -175,7 +175,7 @@ for d, dataset in  enumerate(datasets):
     ax1.text(220,0.3, ('r = %0.2f' % (np.corrcoef(correlation_df['age'], correlation_df['mean_correlation'])[0,1])), fontsize=15)
     plt.tight_layout()
     plt.xlim(75, 270)
-    if dataset=='significant_genes':
+    if datanames=='significant_genes':
     	plt.savefig('graphs/Figure4C.pdf')
     	print('see graphs/Figure4C.pdf')
     else:
