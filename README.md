@@ -13,4 +13,4 @@ To clone environment try: `conda create -n new environment --file req.txt`
 Required libraries: `mgcv`, `tidyverse`, `WCGNA`, `RColorBrewer`, `vegan`
 
 ### Running
-`python run_analysis.py`
+`python A__run_clustering.py` etc.

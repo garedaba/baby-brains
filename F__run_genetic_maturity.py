@@ -80,7 +80,7 @@ model_data.insert(3, 'PC', model_data['region'].map(pca_dict))
 significant_model_data = pd.concat((model_data[['sample','region','age', 'PC']], model_data[significant_genes]), axis=1)
 
 # number of bootstraps
-n_boot = 10
+n_boot = 5000
 
 ################################################################################################################
 
