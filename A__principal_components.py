@@ -26,7 +26,7 @@ def main():
     mean_PCs, mean_eigen_vectors, eig_vals = run_PCA(M)
 
     # results
-    metric_vectors = pd.DataFrame([mean_regional_data.index.values, mean_eigen_vectors[:,0]).T
+    metric_vectors = pd.DataFrame([mean_regional_data.index.values, mean_eigen_vectors[:,0]]).T
     metric_vectors.columns = ['metric', 'PC1']
     metric_vectors.to_csv('results/mean-regional-principal-components-eigenvectors.csv', index=None)
     print('see: results/mean-regional-principal-components-eigenvectors.csv')
@@ -108,7 +108,7 @@ def calculate_xy(data, scaler, eigen_vectors):
         explained_variance = np.var(subject_PCs,0)/sum(np.var(subject_PCs,0))
 
         # x,y coordinates for each subject in PC space
-        subject_coordinates = pd.DataFrame([(subject_data.columns.values), subject_PCs[:,0]).T
+        subject_coordinates = pd.DataFrame([(subject_data.columns.values), subject_PCs[:,0]]).T
 
         subject_coordinates.columns = ['region', 'PC1']
         subject_coordinates.insert(1, column='EV1', value=[explained_variance[0]]*len(subject_PCs))

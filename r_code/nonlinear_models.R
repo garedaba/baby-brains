@@ -123,9 +123,7 @@ trajectories_orig_no_age<- rna_models %>%
   # set region to the same for all samples
   mutate(data2 = map(data, ~ .x %>% mutate(region = 'A1C'))) %>%
   # get predictions using just sex, RIN and sample intercept (region-specific age effects set to 0, region-specific intercept set to same)
-  mutate(predicted = map2(regional_model_result, data2, ~predict(.x, newdata=.y, exclude=exclude_terms, se.fit=TRUE))) %>%
-
-  mutate(predicted = map(regional_nl_model_result, ~predict(.x, exclude=exclude_terms, se.fit=TRUE))) %>%
+  mutate(predicted = map2(regional_nl_model_result, data2, ~predict(.x, newdata=.y, exclude=exclude_terms, se.fit=TRUE))) %>%
   mutate(fit = map(predicted, ~.x$fit)) %>%
   mutate(se = map(predicted, ~.x$se.fit)) %>%
   mutate(ci = map2(se, 1.96, ~.x * .y))  %>%
