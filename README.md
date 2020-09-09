@@ -2,7 +2,7 @@
 Code supporting Ball et al (2020) biorXiv
 Cortical morphology at birth reflects spatio-temporal patterns of gene expression in the fetal brain  
 
-![babyBrains]('https://raw.githubusercontent.com/garedaba/baby-brains/master/img/brains.png')
+![babyBrains]('https://github.com/garedaba/baby-brains/blob/master/img/brains.png')
 
 ### requirements
 #### Python 3.7.3
