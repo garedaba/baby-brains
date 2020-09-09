@@ -2,9 +2,11 @@
 Code supporting Ball et al (2020) biorXiv
 Cortical morphology at birth reflects spatio-temporal patterns of gene expression in the fetal brain  
 
+![babyBrains]('https://raw.githubusercontent.com/garedaba/baby-brains/master/img/brains.png')
+
 ### requirements
-#### Python 3.7.3 
-Required packages include: `numpy`, `scipy`, `scikit-learn`, `statsmodels`, `seaborn` 
+#### Python 3.7.3
+Required packages include: `numpy`, `scipy`, `scikit-learn`, `statsmodels`, `seaborn`
 
 All installed packages are shown in req.txt
 To clone environment try: `conda create -n new environment --file req.txt`
@@ -13,4 +15,4 @@ To clone environment try: `conda create -n new environment --file req.txt`
 Required libraries: `mgcv`, `tidyverse`, `WCGNA`, `RColorBrewer`, `vegan`
 
 ### Running
-`python A__run_clustering.py` etc.
+`python A__principal_components.py` etc.
