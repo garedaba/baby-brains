@@ -41,10 +41,7 @@ def main(permute=False):
     significant_model_data = pd.concat((model_data[['sample','region','age', 'PC']], model_data[significant_genes]), axis=1)
 
     # validation data
-    braincloud_data = pd.read_csv('data/validation/BrainCloud-ALL-bulk-expression-data-scRNA-filtered.csv')
-    # limit to sames age range
-    braincloud_data = braincloud_data[braincloud_data.age<400]
-
+    braincloud_data = pd.read_csv('data/validation/BrainCloud-W5-bulk-expression-data-scRNA-filtered.csv')
     n_braincloud_samples = len(braincloud_data)
 
     braincloud_metadata = braincloud_data[['sample','age']]
