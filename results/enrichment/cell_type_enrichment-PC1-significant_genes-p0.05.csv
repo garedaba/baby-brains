@@ -1,0 +1,349 @@
+class,loading,gene_list,num_genes,enrichment,p
+In_6_fan,positive,all,4,73.46478873239437,0.001048531856659697
+In_6_fan,negative,all,4,0.0,1.0
+In_6_fan,positive,unique,[0],,
+In_6_fan,negative,unique,[0],,
+Maturing excitatory (ExM)_geschwind,positive,all,284,1.3165732747740926,0.33346289671069945
+Maturing excitatory (ExM)_geschwind,negative,all,284,0.37773130453594866,0.9340036309823161
+Maturing excitatory (ExM)_geschwind,positive,unique,[0],,
+Maturing excitatory (ExM)_geschwind,negative,unique,[0],,
+nEN-early2_kriegstein,positive,all,330,2.5332685769791157,0.004134404073701374
+nEN-early2_kriegstein,negative,all,330,0.6518168242906919,0.8201725956378774
+nEN-early2_kriegstein,positive,unique,1,0.0,1.0
+nEN-early2_kriegstein,negative,unique,1,0.0,1.0
+IN-CTX-CGE2_kriegstein,positive,all,201,4.664431030628214,1.1657929683476482e-05
+IN-CTX-CGE2_kriegstein,negative,all,201,0.0,1.0
+IN-CTX-CGE2_kriegstein,positive,unique,1,0.0,1.0
+IN-CTX-CGE2_kriegstein,negative,unique,1,0.0,1.0
+Oligo_prenatal_psychENCODE,positive,all,28,0.0,1.0
+Oligo_prenatal_psychENCODE,negative,all,28,0.0,1.0
+Oligo_prenatal_psychENCODE,positive,unique,3,0.0,1.0
+Oligo_prenatal_psychENCODE,negative,unique,3,0.0,1.0
+Neural_progenitor_pollen,positive,all,202,0.36549646135519587,0.9382532998149679
+Neural_progenitor_pollen,negative,all,202,0.531830642704843,0.8530603023082627
+Neural_progenitor_pollen,positive,unique,15,0.0,1.0
+Neural_progenitor_pollen,negative,unique,15,0.0,1.0
+IPC-div2_kriegstein,positive,all,654,1.6070422535211266,0.04986490751061685
+IPC-div2_kriegstein,negative,all,654,0.3279078502566671,0.9880110913235302
+IPC-div2_kriegstein,positive,unique,38,4.081377151799687,0.09176241818003228
+IPC-div2_kriegstein,negative,unique,38,2.889134031991175,0.2988802646227328
+Micro_1_fan,positive,all,127,0.0,1.0
+Micro_1_fan,negative,all,127,0.0,1.0
+Micro_1_fan,positive,unique,6,0.0,1.0
+Micro_1_fan,negative,unique,6,0.0,1.0
+ExN_prenatal_psychENCODE,positive,all,11,0.0,1.0
+ExN_prenatal_psychENCODE,negative,all,11,0.0,1.0
+ExN_prenatal_psychENCODE,positive,unique,3,0.0,1.0
+ExN_prenatal_psychENCODE,negative,unique,3,0.0,1.0
+NSC_1_fan,positive,all,17,0.0,1.0
+NSC_1_fan,negative,all,17,0.0,1.0
+NSC_1_fan,positive,unique,1,0.0,1.0
+NSC_1_fan,negative,unique,1,0.0,1.0
+Micro_2_fan,positive,all,8,0.0,1.0
+Micro_2_fan,negative,all,8,0.0,1.0
+Micro_2_fan,positive,unique,[0],,
+Micro_2_fan,negative,unique,[0],,
+nIN3_kriegstein,positive,all,117,3.9710696612105063,0.0045865614234985985
+nIN3_kriegstein,negative,all,117,0.9215341308937368,0.6676615058257706
+nIN3_kriegstein,positive,unique,[0],,
+nIN3_kriegstein,negative,unique,[0],,
+EN-V1-1_kriegstein,positive,all,651,1.2626760563380282,0.2528724327648044
+EN-V1-1_kriegstein,negative,all,651,1.4985695212664507,0.141343051077285
+EN-V1-1_kriegstein,positive,unique,18,4.3214581607290805,0.21632237829346182
+EN-V1-1_kriegstein,negative,unique,18,6.288115246098439,0.15453920263417956
+EN-V1-2_kriegstein,positive,all,575,0.9053759174766911,0.6659902801074737
+EN-V1-2_kriegstein,negative,all,575,1.1272192532549048,0.4449779048910796
+EN-V1-2_kriegstein,positive,unique,5,0.0,1.0
+EN-V1-2_kriegstein,negative,unique,5,0.0,1.0
+Astro_2_fan,positive,all,129,0.0,1.0
+Astro_2_fan,negative,all,129,1.6834324280893458,0.33692655291415297
+Astro_2_fan,positive,unique,32,0.0,1.0
+Astro_2_fan,negative,unique,32,3.4483212639894663,0.25832232328903837
+nEN-early1_kriegstein,positive,all,621,1.5707931801334323,0.06741824512331876
+nEN-early1_kriegstein,negative,all,621,0.5189221319595799,0.9386617141795459
+nEN-early1_kriegstein,positive,unique,51,0.0,1.0
+nEN-early1_kriegstein,negative,unique,51,0.0,1.0
+Oligodendrocyte precursor (OPC)_geschwind,positive,all,295,1.266634288489558,0.3632584601467222
+Oligodendrocyte precursor (OPC)_geschwind,negative,all,295,0.36359850062473964,0.9407820668477005
+Oligodendrocyte precursor (OPC)_geschwind,positive,unique,[0],,
+Oligodendrocyte precursor (OPC)_geschwind,negative,unique,[0],,
+Ex_2_fan,positive,all,15,5.24748490945674,0.18378144441790834
+Ex_2_fan,negative,all,15,0.0,1.0
+Ex_2_fan,positive,unique,1,0.0,1.0
+Ex_2_fan,negative,unique,1,0.0,1.0
+nEN-late_kriegstein,positive,all,145,3.726474790773627,0.0030956093782481854
+nEN-late_kriegstein,negative,all,145,0.7423469387755102,0.7456251032942395
+nEN-late_kriegstein,positive,unique,[0],,
+nEN-late_kriegstein,negative,unique,[0],,
+Migrating excitatory (ExN)_geschwind,positive,all,168,1.3357234314980795,0.39378713012949934
+Migrating excitatory (ExN)_geschwind,negative,all,168,0.0,1.0
+Migrating excitatory (ExN)_geschwind,positive,unique,[0],,
+Migrating excitatory (ExN)_geschwind,negative,unique,[0],,
+Microglia_prenatal_psychENCODE,positive,all,180,0.0,1.0
+Microglia_prenatal_psychENCODE,negative,all,180,0.0,1.0
+Microglia_prenatal_psychENCODE,positive,unique,41,0.0,1.0
+Microglia_prenatal_psychENCODE,negative,unique,41,0.0,1.0
+Excitatory deep layer 1 (ExDp1)_geschwind,positive,all,341,0.8719856229364317,0.6812965372643902
+Excitatory deep layer 1 (ExDp1)_geschwind,negative,all,341,0.6306664258623802,0.8343969217987423
+Excitatory deep layer 1 (ExDp1)_geschwind,positive,unique,1,0.0,1.0
+Excitatory deep layer 1 (ExDp1)_geschwind,negative,unique,1,0.0,1.0
+IPC-div1_kriegstein,positive,all,577,2.2301810865191145,0.0012752265042291107
+IPC-div1_kriegstein,negative,all,577,0.18558673469387754,0.9966204668295746
+IPC-div1_kriegstein,positive,unique,25,3.061032863849765,0.2873597966434674
+IPC-div1_kriegstein,negative,unique,25,0.0,1.0
+IPC-nEN1_kriegstein,positive,all,215,3.96133664733499,0.00011594916660791709
+IPC-nEN1_kriegstein,negative,all,215,0.0,1.0
+IPC-nEN1_kriegstein,positive,unique,8,10.49496981891348,0.10258186639886223
+IPC-nEN1_kriegstein,negative,unique,8,0.0,1.0
+OPC_fan,positive,all,47,0.0,1.0
+OPC_fan,negative,all,47,0.0,1.0
+OPC_fan,positive,unique,11,0.0,1.0
+OPC_fan,negative,unique,11,0.0,1.0
+In_4_fan,positive,all,10,8.162754303599375,0.1265614697449808
+In_4_fan,negative,all,10,0.0,1.0
+In_4_fan,positive,unique,[0],,
+In_4_fan,negative,unique,[0],,
+nIN4_kriegstein,positive,all,67,4.664431030628214,0.01211795630211966
+nIN4_kriegstein,negative,all,67,1.6196660482374767,0.4662340661146519
+nIN4_kriegstein,positive,unique,[0],,
+nIN4_kriegstein,negative,unique,[0],,
+vRG_kriegstein,positive,all,297,1.2579587111711363,0.36869322508589847
+vRG_kriegstein,negative,all,297,0.0,1.0
+vRG_kriegstein,positive,unique,[0],,
+vRG_kriegstein,negative,unique,[0],,
+Endo_1_fan,positive,all,349,0.42342817713195596,0.9538326382484916
+Endo_1_fan,negative,all,349,0.6161265659001351,0.8441121945349952
+Endo_1_fan,positive,unique,55,1.360459050599896,0.5264313304261258
+Endo_1_fan,negative,unique,55,1.9795918367346939,0.4023580964930442
+Maturing excitatory upper enriched (ExM-U)_geschwind,positive,all,277,0.5342893725992317,0.8936937117923724
+Maturing excitatory upper enriched (ExM-U)_geschwind,negative,all,277,0.7774397031539888,0.7359091464439236
+Maturing excitatory upper enriched (ExM-U)_geschwind,positive,unique,1,0.0,1.0
+Maturing excitatory upper enriched (ExM-U)_geschwind,negative,unique,1,0.0,1.0
+IN-CTX-CGE1_kriegstein,positive,all,130,3.5547478418900496,0.007630551975487664
+IN-CTX-CGE1_kriegstein,negative,all,130,0.0,1.0
+IN-CTX-CGE1_kriegstein,positive,unique,1,0.0,1.0
+IN-CTX-CGE1_kriegstein,negative,unique,1,0.0,1.0
+Astro_1_fan,positive,all,65,0.0,1.0
+Astro_1_fan,negative,all,65,1.6702806122448977,0.4560732486218716
+Astro_1_fan,positive,unique,15,0.0,1.0
+Astro_1_fan,negative,unique,15,0.0,1.0
+Interneuron MGE (InMGE)_geschwind,positive,all,165,1.8252121424197358,0.18016548777361924
+Interneuron MGE (InMGE)_geschwind,negative,all,165,0.0,1.0
+Interneuron MGE (InMGE)_geschwind,positive,unique,[0],,
+Interneuron MGE (InMGE)_geschwind,negative,unique,[0],,
+MGE-RG1_kriegstein,positive,all,216,1.7408717709098191,0.16329706236220115
+MGE-RG1_kriegstein,negative,all,216,0.0,1.0
+MGE-RG1_kriegstein,positive,unique,7,0.0,1.0
+MGE-RG1_kriegstein,negative,unique,7,0.0,1.0
+Pericyte (Per)_geschwind,positive,all,343,0.4308785262897031,0.9504190201976265
+Pericyte (Per)_geschwind,negative,all,343,0.31256713211600423,0.9632003388952961
+Pericyte (Per)_geschwind,positive,unique,3,0.0,1.0
+Pericyte (Per)_geschwind,negative,unique,3,0.0,1.0
+MGE-IPC1_kriegstein,positive,all,450,1.3296794340704863,0.2548410662280074
+MGE-IPC1_kriegstein,negative,all,450,0.0,1.0
+MGE-IPC1_kriegstein,positive,unique,15,0.0,1.0
+MGE-IPC1_kriegstein,negative,unique,15,0.0,1.0
+InN_prenatal_psychENCODE,positive,all,23,6.996646545942321,0.03751377848472629
+InN_prenatal_psychENCODE,negative,all,23,0.0,1.0
+InN_prenatal_psychENCODE,positive,unique,6,0.0,1.0
+InN_prenatal_psychENCODE,negative,unique,6,0.0,1.0
+In_5_fan,positive,all,5,293.85915492957747,1.478806594551659e-07
+In_5_fan,negative,all,5,0.0,1.0
+In_5_fan,positive,unique,[0],,
+In_5_fan,negative,unique,[0],,
+RG-div1_kriegstein,positive,all,1405,1.3851229202626931,0.03948054653855177
+RG-div1_kriegstein,negative,all,1405,0.30520473714110913,0.9997339385797533
+RG-div1_kriegstein,positive,unique,110,2.0597604317493747,0.18313873397832345
+RG-div1_kriegstein,negative,unique,110,0.0,1.0
+Endo_2_fan,positive,all,250,0.2950393121782906,0.9686582807927383
+Endo_2_fan,negative,all,250,1.298355779558787,0.4108151167594222
+Endo_2_fan,positive,unique,66,0.0,1.0
+Endo_2_fan,negative,unique,66,0.0,1.0
+Radial_glia_pollen,positive,all,94,0.7899439648644555,0.7225968343955971
+Radial_glia_pollen,negative,all,94,1.1494404213298222,0.5864937047395352
+Radial_glia_pollen,positive,unique,11,0.0,1.0
+Radial_glia_pollen,negative,unique,11,10.689795918367345,0.09744079374224254
+oRG_kriegstein,positive,all,1123,1.0618216980291868,0.4406653847238021
+oRG_kriegstein,negative,all,1123,0.5742056894378162,0.9649320426719803
+oRG_kriegstein,positive,unique,96,1.5630806113275397,0.3709384012717785
+oRG_kriegstein,negative,unique,96,0.0,1.0
+tRG_kriegstein,positive,all,749,0.6930640446452297,0.8935184318640641
+tRG_kriegstein,negative,all,749,0.28620604868453403,0.9950385406699138
+tRG_kriegstein,positive,unique,27,0.0,1.0
+tRG_kriegstein,negative,unique,27,0.0,1.0
+Astro_prenatal_psychENCODE,positive,all,30,0.0,1.0
+Astro_prenatal_psychENCODE,negative,all,30,0.0,1.0
+Astro_prenatal_psychENCODE,positive,unique,4,0.0,1.0
+Astro_prenatal_psychENCODE,negative,unique,4,0.0,1.0
+Astrocyte_kriegstein,positive,all,333,0.0,1.0
+Astrocyte_kriegstein,negative,all,333,0.6459091189345828,0.82415403204833
+Astrocyte_kriegstein,positive,unique,11,0.0,1.0
+Astrocyte_kriegstein,negative,unique,11,0.0,1.0
+RG-div2_kriegstein,positive,all,875,0.9353155972874283,0.6449090855095578
+RG-div2_kriegstein,negative,all,875,0.24489795918367346,0.9985377842599623
+RG-div2_kriegstein,positive,unique,22,0.0,1.0
+RG-div2_kriegstein,negative,unique,22,0.0,1.0
+IN-CTX-MGE1_kriegstein,positive,all,175,3.9830307144069237,0.0004933253301294818
+IN-CTX-MGE1_kriegstein,negative,all,175,0.0,1.0
+IN-CTX-MGE1_kriegstein,positive,unique,[0],,
+IN-CTX-MGE1_kriegstein,negative,unique,[0],,
+IN-CTX-MGE2_kriegstein,positive,all,181,2.9554800064756352,0.010282389589565484
+IN-CTX-MGE2_kriegstein,negative,all,181,0.0,1.0
+IN-CTX-MGE2_kriegstein,positive,unique,[0],,
+IN-CTX-MGE2_kriegstein,negative,unique,[0],,
+OPC_kriegstein,positive,all,245,0.9107205214759632,0.6464962784714325
+OPC_kriegstein,negative,all,245,0.43810639009702235,0.9032704035726434
+OPC_kriegstein,positive,unique,13,0.0,1.0
+OPC_kriegstein,negative,unique,13,0.0,1.0
+oRG_geschwind,positive,all,391,1.339201877934272,0.2698942586246134
+oRG_geschwind,negative,all,391,0.0,1.0
+oRG_geschwind,positive,unique,1,0.0,1.0
+oRG_geschwind,negative,unique,1,0.0,1.0
+MGE-IPC3_kriegstein,positive,all,103,3.748203506754815,0.011992476098128731
+MGE-IPC3_kriegstein,negative,all,103,0.0,1.0
+MGE-IPC3_kriegstein,positive,unique,1,0.0,1.0
+MGE-IPC3_kriegstein,negative,unique,1,0.0,1.0
+nIN1_kriegstein,positive,all,131,4.147205815538391,0.0017365347309264186
+nIN1_kriegstein,negative,all,131,0.822291993720565,0.7091918093645769
+nIN1_kriegstein,positive,unique,1,0.0,1.0
+nIN1_kriegstein,negative,unique,1,0.0,1.0
+Neuronal_pollen,positive,all,163,2.3248350864681764,0.0669509903222896
+Neuronal_pollen,negative,all,163,0.6598639455782312,0.7859582424057486
+Neuronal_pollen,positive,unique,11,0.0,1.0
+Neuronal_pollen,negative,unique,11,0.0,1.0
+IPC-nEN2_kriegstein,positive,all,119,3.9007852424280194,0.004983136120076478
+IPC-nEN2_kriegstein,negative,all,119,0.9059149083362158,0.6739319026667906
+IPC-nEN2_kriegstein,positive,unique,[0],,
+IPC-nEN2_kriegstein,negative,unique,[0],,
+Cycling progenitor G2/M phase (PgG2M)_geschwind,positive,all,484,1.8677488660778228,0.026172077912878143
+Cycling progenitor G2/M phase (PgG2M)_geschwind,negative,all,484,0.0,1.0
+Cycling progenitor G2/M phase (PgG2M)_geschwind,positive,unique,2,0.0,1.0
+Cycling progenitor G2/M phase (PgG2M)_geschwind,negative,unique,2,0.0,1.0
+NPC_prenatal_psychENCODE,positive,all,30,0.0,1.0
+NPC_prenatal_psychENCODE,negative,all,30,0.0,1.0
+NPC_prenatal_psychENCODE,positive,unique,6,0.0,1.0
+NPC_prenatal_psychENCODE,negative,unique,6,0.0,1.0
+Ex_4_fan,positive,all,116,0.0,1.0
+Ex_4_fan,negative,all,116,6.8650065530799464,8.180779177827987e-05
+Ex_4_fan,positive,unique,60,0.0,1.0
+Ex_4_fan,negative,unique,60,7.635568513119533,0.002169646406061012
+In_3_fan,positive,all,6,14.692957746478873,0.07795344380290466
+In_3_fan,negative,all,6,0.0,1.0
+In_3_fan,positive,unique,[0],,
+In_3_fan,negative,unique,[0],,
+Excitatory deep layer 2 (ExDp2)_geschwind,positive,all,434,1.0298802158746874,0.5330957722901518
+Excitatory deep layer 2 (ExDp2)_geschwind,negative,all,434,0.9943996203132416,0.5803034219966448
+Excitatory deep layer 2 (ExDp2)_geschwind,positive,unique,10,0.0,1.0
+Excitatory deep layer 2 (ExDp2)_geschwind,negative,unique,10,0.0,1.0
+Endo_prenatal_psychENCODE,positive,all,156,0.954088165355771,0.6251947166237736
+Endo_prenatal_psychENCODE,negative,all,156,1.3882851842035515,0.4268173009540923
+Endo_prenatal_psychENCODE,positive,unique,21,3.6732394366197183,0.24758352451488239
+Endo_prenatal_psychENCODE,negative,unique,21,5.3448979591836725,0.17791245919822665
+MGE-RG2_kriegstein,positive,all,306,0.9730435593694619,0.5952774165224098
+MGE-RG2_kriegstein,negative,all,306,0.0,1.0
+MGE-RG2_kriegstein,positive,unique,[0],,
+MGE-RG2_kriegstein,negative,unique,[0],,
+IP_geschwind,positive,all,215,2.4723726977248104,0.024411881486769437
+IP_geschwind,negative,all,215,0.0,1.0
+IP_geschwind,positive,unique,[0],,
+IP_geschwind,negative,unique,[0],,
+In_1_fan,positive,all,11,0.0,1.0
+In_1_fan,negative,all,11,0.0,1.0
+In_1_fan,positive,unique,1,0.0,1.0
+In_1_fan,negative,unique,1,0.0,1.0
+In_8_fan,positive,all,2,73.46478873239437,0.026680495659547804
+In_8_fan,negative,all,2,0.0,1.0
+In_8_fan,positive,unique,[0],,
+In_8_fan,negative,unique,[0],,
+IPC-nEN3_kriegstein,positive,all,214,1.7575308309185258,0.1589338948810926
+IPC-nEN3_kriegstein,negative,all,214,0.0,1.0
+IPC-nEN3_kriegstein,positive,unique,5,0.0,1.0
+IPC-nEN3_kriegstein,negative,unique,5,0.0,1.0
+NSC_2_fan,positive,all,206,0.35836482308485057,0.9416313050531763
+NSC_2_fan,negative,all,206,0.5214534594325534,0.8586443374954282
+NSC_2_fan,positive,unique,27,0.0,1.0
+NSC_2_fan,negative,unique,27,0.0,1.0
+Endothelial_kriegstein,positive,all,1221,0.3020756115641216,0.9999285958569789
+Endothelial_kriegstein,negative,all,1221,1.329576606762108,0.13983539031702885
+Endothelial_kriegstein,positive,unique,256,0.288097210715272,0.9712185349297984
+Endothelial_kriegstein,negative,unique,256,2.5655510204081633,0.02962035675756569
+RG-early_kriegstein,positive,all,352,1.7084834588928923,0.09771431497445046
+RG-early_kriegstein,negative,all,352,0.0,1.0
+RG-early_kriegstein,positive,unique,8,10.49496981891348,0.10258186639886223
+RG-early_kriegstein,negative,unique,8,0.0,1.0
+In_7_fan,positive,all,[0],,
+In_7_fan,negative,all,[0],,
+In_7_fan,positive,unique,[0],,
+In_7_fan,negative,unique,[0],,
+EN-PFC1_kriegstein,positive,all,816,0.4529271808409024,0.9900571240380664
+EN-PFC1_kriegstein,negative,all,816,1.326277409226718,0.21517249684074544
+EN-PFC1_kriegstein,positive,unique,69,0.0,1.0
+EN-PFC1_kriegstein,negative,unique,69,0.0,1.0
+Endothelial (End)_geschwind,positive,all,112,0.6618449435350844,0.7835706427017111
+Endothelial (End)_geschwind,negative,all,112,0.0,1.0
+Endothelial (End)_geschwind,positive,unique,[0],,
+Endothelial (End)_geschwind,negative,unique,[0],,
+Olig_fan,positive,all,602,0.36793717228244255,0.9907547395611813
+Olig_fan,negative,all,602,1.8057087699944845,0.04616956930593325
+Olig_fan,positive,unique,327,0.4520910075839653,0.9401228443341254
+Olig_fan,negative,unique,327,1.6599061985042465,0.18368982742578793
+Interneuron CGE (InCGE)_geschwind,positive,all,150,1.499281402701926,0.3272222343763331
+Interneuron CGE (InCGE)_geschwind,negative,all,150,0.0,1.0
+Interneuron CGE (InCGE)_geschwind,positive,unique,[0],,
+Interneuron CGE (InCGE)_geschwind,negative,unique,[0],,
+MGE-div_kriegstein,positive,all,459,1.3031448112176385,0.272391179572367
+MGE-div_kriegstein,negative,all,459,0.23340165760627393,0.9885686788859794
+MGE-div_kriegstein,positive,unique,12,6.678617157490397,0.14990910872234456
+MGE-div_kriegstein,negative,unique,12,0.0,1.0
+MGE-IPC2_kriegstein,positive,all,341,2.448826291079812,0.005298639933955084
+MGE-IPC2_kriegstein,negative,all,341,0.6306664258623802,0.8343969217987423
+MGE-IPC2_kriegstein,positive,unique,7,0.0,1.0
+MGE-IPC2_kriegstein,negative,unique,7,0.0,1.0
+vRG_geschwind,positive,all,294,1.7918241154242527,0.09791828424322982
+vRG_geschwind,negative,all,294,0.0,1.0
+vRG_geschwind,positive,unique,[0],,
+vRG_geschwind,negative,unique,[0],,
+Cycling progenitor S phase (PgS)_geschwind,positive,all,377,1.7966932026944276,0.063633665868851
+Cycling progenitor S phase (PgS)_geschwind,negative,all,377,0.0,1.0
+Cycling progenitor S phase (PgS)_geschwind,positive,unique,1,0.0,1.0
+Cycling progenitor S phase (PgS)_geschwind,negative,unique,1,0.0,1.0
+Micro_3_fan,positive,all,20,0.0,1.0
+Micro_3_fan,negative,all,20,0.0,1.0
+Micro_3_fan,positive,unique,4,0.0,1.0
+Micro_3_fan,negative,unique,4,0.0,1.0
+EN-V1-3_kriegstein,positive,all,796,0.6517788607436762,0.9261503418412325
+EN-V1-3_kriegstein,negative,all,796,1.4979331860132588,0.10848638115567837
+EN-V1-3_kriegstein,positive,unique,41,0.0,1.0
+EN-V1-3_kriegstein,negative,unique,41,2.6724489795918362,0.31833630419498116
+In_2_fan,positive,all,7,0.0,1.0
+In_2_fan,negative,all,7,0.0,1.0
+In_2_fan,positive,unique,1,0.0,1.0
+In_2_fan,negative,unique,1,0.0,1.0
+EN-PFC2_kriegstein,positive,all,859,0.7778624689312345,0.8373391360809775
+EN-PFC2_kriegstein,negative,all,859,0.5001074113856068,0.9686495021870315
+EN-PFC2_kriegstein,positive,unique,40,0.0,1.0
+EN-PFC2_kriegstein,negative,unique,40,0.0,1.0
+nIN2_kriegstein,positive,all,154,2.465261366858871,0.05500747502580918
+nIN2_kriegstein,negative,all,154,0.0,1.0
+nIN2_kriegstein,positive,unique,[0],,
+nIN2_kriegstein,negative,unique,[0],,
+Microglia_kriegstein,positive,all,508,0.29037465902132165,0.993680961812095
+Microglia_kriegstein,negative,all,508,0.8483965014577258,0.7063588055288766
+Microglia_kriegstein,positive,unique,81,0.0,1.0
+Microglia_kriegstein,negative,unique,81,2.7062774476879357,0.17247297599054057
+nIN5_kriegstein,positive,all,114,3.3699444372657967,0.01796329243031576
+nIN5_kriegstein,negative,all,114,0.9459996387935704,0.6580338420292419
+nIN5_kriegstein,positive,unique,[0],,
+nIN5_kriegstein,negative,unique,[0],,
+Microglia (Mic)_geschwind,positive,all,165,0.0,1.0
+Microglia (Mic)_geschwind,negative,all,165,0.0,1.0
+Microglia (Mic)_geschwind,positive,unique,[0],,
+Microglia (Mic)_geschwind,negative,unique,[0],,
+EN-PFC3_kriegstein,positive,all,260,2.0326226131492513,0.0585331959997397
+EN-PFC3_kriegstein,negative,all,260,0.8286663502610346,0.7027318369175977
+EN-PFC3_kriegstein,positive,unique,[0],,
+EN-PFC3_kriegstein,negative,unique,[0],,
+Ex_1_fan,positive,all,5,18.366197183098592,0.0653905373575694
+Ex_1_fan,negative,all,5,0.0,1.0
+Ex_1_fan,positive,unique,[0],,
+Ex_1_fan,negative,unique,[0],,

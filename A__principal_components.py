@@ -6,15 +6,19 @@ import numpy as np
 
 from sklearn.preprocessing import StandardScaler
 
+import os
+
 def main():
+    os.makedirs('results/PCA', exist_ok=True)
+
     ss = StandardScaler()
 
     # LOAD
     # term group average metrics
-    mean_regional_data = pd.read_csv('data/regional-multimodal-metrics-term-data-clean-zscore-groupaverage.csv', index_col=0)
+    mean_regional_data = pd.read_csv('data/processed_imaging/regional-multimodal-metrics-term-data-clean-zscore-groupaverage.csv', index_col=0)
     # individual term and preterm metrics (cleaned, scaled)
-    scaled_term_clean_data = pd.read_csv('data/regional-multimodal-metrics-term-data-clean-zscore.csv')
-    scaled_preterm_clean_data = pd.read_csv('data/regional-multimodal-metrics-preterm-data-clean-zscore.csv')
+    scaled_term_clean_data = pd.read_csv('data/processed_imaging/regional-multimodal-metrics-term-data-clean-zscore.csv')
+    scaled_preterm_clean_data = pd.read_csv('data/processed_imaging/regional-multimodal-metrics-preterm-data-clean-zscore.csv')
 
     # PCA with term mean regional data
     print("")
@@ -28,13 +32,15 @@ def main():
     # results
     metric_vectors = pd.DataFrame([mean_regional_data.index.values, mean_eigen_vectors[:,0]]).T
     metric_vectors.columns = ['metric', 'PC1']
-    metric_vectors.to_csv('results/mean-regional-principal-components-eigenvectors.csv', index=None)
-    print('see: results/mean-regional-principal-components-eigenvectors.csv')
+    metric_vectors.to_csv('results/PCA/mean-regional-principal-components-eigenvectors.csv', index=None)
+    print('see: results/PCA/mean-regional-principal-components-eigenvectors.csv')
 
     pc_data = pd.DataFrame(mean_regional_data.columns, columns=['region'])
     pc_data['PC1'] = mean_PCs[:,0]
-    pc_data.to_csv('results/mean-regional-principal-components.csv', index=None)
-    print("see: results/mean-regional-principal-components.csv")
+    pc_data['PC2'] = mean_PCs[:,1]
+
+    pc_data.to_csv('results/PCA/mean-regional-principal-components.csv', index=None)
+    print("see: results/PCA/mean-regional-principal-components.csv")
 
     print("")
     print("projecting individual data onto mean axes..")
@@ -45,8 +51,8 @@ def main():
         coordinates['group']=group
 
         xy_coordinates.append(coordinates)
-        coordinates.to_csv('results/subject-specific-regional-principal-components-{:}.csv'.format(group), index=None)
-        print('see: results/subject-specific-regional-principal-components-{:}.csv'.format(group))
+        coordinates.to_csv('results/PCA/subject-specific-regional-principal-components-{:}.csv'.format(group), index=None)
+        print('see: results/PCA/subject-specific-regional-principal-components-{:}.csv'.format(group))
 
     # concatentate
     all_xy = pd.concat(xy_coordinates, axis=0)
@@ -54,8 +60,8 @@ def main():
     # get explained variance per subject
     region_average_all_xy=all_xy.groupby('ids').mean()
     region_average_all_xy['group']=all_xy.groupby('ids')['group'].first()
-    region_average_all_xy.loc[:,['EV1','age_at_scan','age_at_birth','male','group']].to_csv('results/principal-components-explained-variance-per-subject.csv')
-    print('see: results/principal-components-explained-variance-per-subject.csv')
+    region_average_all_xy.loc[:,['EV1','age_at_scan','age_at_birth','male','group']].to_csv('results/PCA/principal-components-explained-variance-per-subject.csv')
+    print('see: results/PCA/principal-components-explained-variance-per-subject.csv')
 
 
 #####################################################################

@@ -5,9 +5,10 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import networkx as nx
 
-import subprocess
+import subprocess, os
 
 def main():
+    os.makedirs('results/wgcna', exist_ok=True)
     ### RUN WGCNA ####################################################################################
     print("running WGCNA in R")
     print("")
@@ -23,8 +24,8 @@ def main():
         print("")
         print('extracting module networks for '+pos_or_neg+' gene associations..')
         # load data
-        data = pd.read_csv('results/WCGNA_'+pos_or_neg+'_TOM_matrix.csv', index_col=0)
-        node_info = pd.read_csv('results/WCGNA_'+pos_or_neg+'_node_modules.csv', index_col=None)
+        data = pd.read_csv('results/wgcna/WGCNA_'+pos_or_neg+'_TOM_matrix.csv', index_col=0)
+        node_info = pd.read_csv('results/wgcna/WGCNA_'+pos_or_neg+'_node_modules.csv', index_col=None)
 
         # identify unassigned genes
         unassigned = node_info['gene_names'].loc[node_info['moduleid']==0]
@@ -43,8 +44,8 @@ def main():
         ordered_node_info.drop(np.where(ordered_node_info.gene_names.isin(unassigned))[0], inplace=True)
 
         # save order data for later plotting
-        order_data.to_csv('results/WCGNA_expression_matrix-' + pos_or_neg + '.csv', index=None)
-        print('see: results/WCGNA_expression_matrix-' + pos_or_neg + '.csv')
+        order_data.to_csv('results/wgcna/WGCNA_expression_matrix-' + pos_or_neg + '.csv', index=None)
+        print('see: results/wgcna/WGCNA_expression_matrix-' + pos_or_neg + '.csv')
 
         # output module specific networks
         print("")
@@ -57,9 +58,9 @@ def main():
             graph = convert_to_network(mod_data, mod_info)
 
             nx.write_graphml(graph, 'results/WCGNA_'+pos_or_neg+'_module_' + str(i) + '.graphml')
-            print('see: results/WCGNA_'+pos_or_neg+'_module_' + str(i) + '.graphml')
+            print('see: results/wgcna/WGCNA_'+pos_or_neg+'_module_' + str(i) + '.graphml')
     print("")
-    print('see results/WCGNA*graphml files for visualisation of module networks in Cytoscape (or your choice of software)')
+    print('see results/wgcna/WGCNA*graphml files for visualisation of module networks in Cytoscape (or your choice of software)')
 
 ### HELPERS #####################################################################
 def convert_to_network(matrix, matrix_info, prc=50):

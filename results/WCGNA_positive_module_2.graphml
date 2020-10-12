@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="double" for="edge" id="d1" />
+  <key attr.name="strength" attr.type="double" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="FAM110B">
+      <data key="d0">1.21491475863867</data>
+    </node>
+    <node id="IGFBP5">
+      <data key="d0">1.95252050032498</data>
+    </node>
+    <node id="NNAT">
+      <data key="d0">2.2700610084352597</data>
+    </node>
+    <node id="CADM1">
+      <data key="d0">1.7012729168602903</data>
+    </node>
+    <node id="ACVR2A">
+      <data key="d0">2.02332236208184</data>
+    </node>
+    <node id="ELAVL4">
+      <data key="d0">2.23936385732515</data>
+    </node>
+    <node id="THRB">
+      <data key="d0">1.9849623127282</data>
+    </node>
+    <node id="ZNF536">
+      <data key="d0">2.42702537123147</data>
+    </node>
+    <node id="CALB2">
+      <data key="d0">2.33996640377334</data>
+    </node>
+    <node id="SCGN">
+      <data key="d0">2.6243862134960803</data>
+    </node>
+    <node id="ERBB4">
+      <data key="d0">2.96292931702596</data>
+    </node>
+    <node id="DLX1">
+      <data key="d0">2.90830339613187</data>
+    </node>
+    <node id="ST8SIA5">
+      <data key="d0">2.69768479146307</data>
+    </node>
+    <edge source="IGFBP5" target="NNAT">
+      <data key="d1">0.0520946434379786</data>
+    </edge>
+    <edge source="IGFBP5" target="ACVR2A">
+      <data key="d1">0.05016158033009599</data>
+    </edge>
+    <edge source="IGFBP5" target="ERBB4">
+      <data key="d1">0.0369851887392594</data>
+    </edge>
+    <edge source="NNAT" target="ACVR2A">
+      <data key="d1">0.0365075862254422</data>
+    </edge>
+    <edge source="NNAT" target="ELAVL4">
+      <data key="d1">0.041702183336358</data>
+    </edge>
+    <edge source="CADM1" target="ZNF536">
+      <data key="d1">0.0482404387450218</data>
+    </edge>
+    <edge source="CADM1" target="CALB2">
+      <data key="d1">0.0711364412476469</data>
+    </edge>
+    <edge source="CADM1" target="ERBB4">
+      <data key="d1">0.0453506397892197</data>
+    </edge>
+    <edge source="CADM1" target="DLX1">
+      <data key="d1">0.0388725485994645</data>
+    </edge>
+    <edge source="ACVR2A" target="ELAVL4">
+      <data key="d1">0.0908704746101273</data>
+    </edge>
+    <edge source="ACVR2A" target="THRB">
+      <data key="d1">0.046118343898107</data>
+    </edge>
+    <edge source="ACVR2A" target="SCGN">
+      <data key="d1">0.0416110000146914</data>
+    </edge>
+    <edge source="ACVR2A" target="ERBB4">
+      <data key="d1">0.0567645368519581</data>
+    </edge>
+    <edge source="ACVR2A" target="DLX1">
+      <data key="d1">0.0508515636683772</data>
+    </edge>
+    <edge source="ACVR2A" target="ST8SIA5">
+      <data key="d1">0.04488562918157799</data>
+    </edge>
+    <edge source="ELAVL4" target="THRB">
+      <data key="d1">0.054105383873870996</data>
+    </edge>
+    <edge source="ELAVL4" target="ZNF536">
+      <data key="d1">0.0713363414760863</data>
+    </edge>
+    <edge source="ELAVL4" target="CALB2">
+      <data key="d1">0.062146380122577005</data>
+    </edge>
+    <edge source="ELAVL4" target="SCGN">
+      <data key="d1">0.0636717625421505</data>
+    </edge>
+    <edge source="ELAVL4" target="ERBB4">
+      <data key="d1">0.0882733078716958</data>
+    </edge>
+    <edge source="ELAVL4" target="DLX1">
+      <data key="d1">0.0822061646801328</data>
+    </edge>
+    <edge source="ELAVL4" target="ST8SIA5">
+      <data key="d1">0.0655324568365854</data>
+    </edge>
+    <edge source="THRB" target="CALB2">
+      <data key="d1">0.0677420211110159</data>
+    </edge>
+    <edge source="THRB" target="SCGN">
+      <data key="d1">0.0848899393911424</data>
+    </edge>
+    <edge source="THRB" target="ERBB4">
+      <data key="d1">0.0905693284650334</data>
+    </edge>
+    <edge source="THRB" target="DLX1">
+      <data key="d1">0.10546342761045899</data>
+    </edge>
+    <edge source="THRB" target="ST8SIA5">
+      <data key="d1">0.0893739056016909</data>
+    </edge>
+    <edge source="ZNF536" target="CALB2">
+      <data key="d1">0.0757347050193156</data>
+    </edge>
+    <edge source="ZNF536" target="SCGN">
+      <data key="d1">0.0915360820607108</data>
+    </edge>
+    <edge source="ZNF536" target="ERBB4">
+      <data key="d1">0.16226220135987698</data>
+    </edge>
+    <edge source="ZNF536" target="DLX1">
+      <data key="d1">0.147012590605846</data>
+    </edge>
+    <edge source="ZNF536" target="ST8SIA5">
+      <data key="d1">0.11922134468743302</data>
+    </edge>
+    <edge source="CALB2" target="SCGN">
+      <data key="d1">0.11699895255420698</data>
+    </edge>
+    <edge source="CALB2" target="ERBB4">
+      <data key="d1">0.162306557834204</data>
+    </edge>
+    <edge source="CALB2" target="DLX1">
+      <data key="d1">0.16038554084580803</data>
+    </edge>
+    <edge source="CALB2" target="ST8SIA5">
+      <data key="d1">0.151904442410613</data>
+    </edge>
+    <edge source="SCGN" target="ERBB4">
+      <data key="d1">0.216422494595863</data>
+    </edge>
+    <edge source="SCGN" target="DLX1">
+      <data key="d1">0.28701225552134396</data>
+    </edge>
+    <edge source="SCGN" target="ST8SIA5">
+      <data key="d1">0.22266211306674696</data>
+    </edge>
+    <edge source="ERBB4" target="DLX1">
+      <data key="d1">0.286008502616491</data>
+    </edge>
+    <edge source="ERBB4" target="ST8SIA5">
+      <data key="d1">0.31102307795649103</data>
+    </edge>
+    <edge source="DLX1" target="ST8SIA5">
+      <data key="d1">0.34376327103597204</data>
+    </edge>
+  </graph>
+</graphml>

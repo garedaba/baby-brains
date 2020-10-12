@@ -9,18 +9,21 @@ from scipy.stats import hypergeom
 fdr_threshold = 0.05
 
 def main():
+    os.makedirs('results/enrichment', exist_ok=True)
+    os.makedirs('results/GO', exist_ok=True)
+
     # LOAD
     # single cell gene data
-    all_gene_data = pd.read_csv('data/all-scRNA-data.csv')
+    all_gene_data = pd.read_csv('data/gene_lists/all-scRNA-data.csv')
 
     # normalised RPKM bulk data corrected for age, sex, etc
-    bulk_data = pd.read_csv('data/PsychENCODE-prenatal-bulk-RPKM-data-scRNA-filtered-Winsor-log2-residualised.csv')
+    bulk_data = pd.read_csv('data/processed_psychencode/PsychENCODE-prenatal-bulk-RPKM-data-scRNA-filtered-Winsor-log2-residualised.csv')
 
     # gene-wise correlation with PC components
-    correlation_results = pd.read_csv('results/PCA_correlations-KendallTau-residualisedRPKM.csv')
+    correlation_results = pd.read_csv('results/gene_correlations/PCA_correlations-KendallTau-residualisedRPKM.csv')
 
-    # background geneset = all filtered genes in bulk data
-    background_genes = np.unique(bulk_data['symbol'])
+    # fetal background geneset = all filtered genes in bulk data
+    background_genes = pd.read_csv('data/gene_lists/background_genes.txt', header=None)[0]
     print('number of background genes: {:}'.format(len(background_genes)))
 
     # get gene lists
@@ -34,33 +37,30 @@ def main():
     cell_types, cell_type_genes, cell_type_unique_genes = get_gene_lists(all_gene_data, background_genes, class_type='cluster_study')
 
     # get significant genes
-    significant_genes = pd.read_csv('results/PCA_correlations-KendallTau-PC-significant_genes-p' + str(fdr_threshold) + '.csv')
+    significant_genes = pd.read_csv('results/gene_correlations/PCA_correlations-KendallTau-PC-significant_genes-p' + str(fdr_threshold) + '.csv')
 
     # genes positively correlated to PC component
     positive_significant_genes_list = list(significant_genes.loc[significant_genes['PC1_tau']>0,'symbol'])
     # genes negatively correlated to PC component
     negative_significant_genes_list = list(significant_genes.loc[significant_genes['PC1_tau']<0,'symbol'])
 
-
     # ENRICHMENT
     print("cell enrichments")
     cell_timing_enrichment_results = run_enrichment(cell_timing, cell_timing_genes, cell_timing_unique_genes, positive_significant_genes_list, negative_significant_genes_list, background_genes)
-    cell_timing_enrichment_results.to_csv('results/cell_timing_enrichment-PC1-significant_genes-p' + str(fdr_threshold) + '.csv', index=False)
-    print("see results/cell_timing_enrichment-significant_genes-p" + str(fdr_threshold) + ".csv")
+    cell_timing_enrichment_results.to_csv('results/enrichment/cell_timing_enrichment-PC1-significant_genes-p' + str(fdr_threshold) + '.csv', index=False)
+    print("see results/enrichment/cell_timing_enrichment-significant_genes-p" + str(fdr_threshold) + ".csv")
 
     cell_class_enrichment_results = run_enrichment(cell_classes, cell_class_genes, cell_class_unique_genes, positive_significant_genes_list, negative_significant_genes_list, background_genes)
-    cell_class_enrichment_results.to_csv('results/cell_class_enrichment-PC1-significant_genes-p' + str(fdr_threshold) + '.csv', index=False)
-    print("see results/cell_class_enrichment-significant_genes-p" + str(fdr_threshold) + ".csv")
+    cell_class_enrichment_results.to_csv('results/enrichment/cell_class_enrichment-PC1-significant_genes-p' + str(fdr_threshold) + '.csv', index=False)
+    print("see results/enrichment/cell_class_enrichment-significant_genes-p" + str(fdr_threshold) + ".csv")
 
     cell_type_enrichment_results = run_enrichment(cell_types, cell_type_genes, cell_type_unique_genes, positive_significant_genes_list, negative_significant_genes_list, background_genes)
-    cell_type_enrichment_results.to_csv('results/cell_type_enrichment-PC1-significant_genes-p' + str(fdr_threshold) + '.csv', index=False)
-    print("see results/cell_type_enrichment-significant_genes-p" + str(fdr_threshold) + ".csv")
+    cell_type_enrichment_results.to_csv('results/enrichment/cell_type_enrichment-PC1-significant_genes-p' + str(fdr_threshold) + '.csv', index=False)
+    print("see results/enrichment/cell_type_enrichment-significant_genes-p" + str(fdr_threshold) + ".csv")
 
     # save out lists for webgestalt
-    os.makedirs('results/GO', exist_ok=True)
     np.savetxt('results/GO/positive_genes.txt', positive_significant_genes_list, fmt='%s')
     np.savetxt('results/GO/negative_genes.txt', negative_significant_genes_list, fmt='%s')
-    np.savetxt('results/GO/background_genes.txt', background_genes, fmt='%s')
 
 ### HELPERS ##############################################################################################
 def get_gene_lists(data, background_genes, class_type='class'):

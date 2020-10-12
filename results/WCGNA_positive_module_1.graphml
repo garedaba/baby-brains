@@ -1,0 +1,2272 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="double" for="edge" id="d1" />
+  <key attr.name="strength" attr.type="double" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="TTN">
+      <data key="d0">1.53590956659607</data>
+    </node>
+    <node id="DBN1">
+      <data key="d0">1.60140232583646</data>
+    </node>
+    <node id="OSBPL8">
+      <data key="d0">1.77580340025849</data>
+    </node>
+    <node id="PTOV1">
+      <data key="d0">1.6492805576875902</data>
+    </node>
+    <node id="TAGLN3">
+      <data key="d0">1.79657825146786</data>
+    </node>
+    <node id="PRDX5">
+      <data key="d0">1.89970736368969</data>
+    </node>
+    <node id="KLHL9">
+      <data key="d0">2.96617000827559</data>
+    </node>
+    <node id="KLHL7">
+      <data key="d0">2.7857244275909903</data>
+    </node>
+    <node id="WDR36">
+      <data key="d0">2.0236628687073</data>
+    </node>
+    <node id="NUP93">
+      <data key="d0">2.77061038376517</data>
+    </node>
+    <node id="HPCAL1">
+      <data key="d0">3.52625300110092</data>
+    </node>
+    <node id="MAP4">
+      <data key="d0">2.50387093312368</data>
+    </node>
+    <node id="EIF4G2">
+      <data key="d0">2.04740414514469</data>
+    </node>
+    <node id="SHC3">
+      <data key="d0">1.9629607485565599</data>
+    </node>
+    <node id="DCAF7">
+      <data key="d0">1.5646632345229299</data>
+    </node>
+    <node id="STAG1">
+      <data key="d0">2.64238291881501</data>
+    </node>
+    <node id="EPHA5">
+      <data key="d0">2.2010100925018303</data>
+    </node>
+    <node id="DDX6">
+      <data key="d0">2.1181690266820903</data>
+    </node>
+    <node id="UBB">
+      <data key="d0">2.53195066902793</data>
+    </node>
+    <node id="RPRD1B">
+      <data key="d0">2.77503864628557</data>
+    </node>
+    <node id="XRCC5">
+      <data key="d0">3.52335622092412</data>
+    </node>
+    <node id="AMOTL1">
+      <data key="d0">3.3971827335343794</data>
+    </node>
+    <node id="MEIS2">
+      <data key="d0">3.66051292980428</data>
+    </node>
+    <node id="PPFIBP2">
+      <data key="d0">2.7187248528949497</data>
+    </node>
+    <node id="HUNK">
+      <data key="d0">4.4131282830551</data>
+    </node>
+    <node id="PGAP1">
+      <data key="d0">4.09829506001787</data>
+    </node>
+    <node id="CORO1C">
+      <data key="d0">2.88251082097456</data>
+    </node>
+    <node id="MKLN1">
+      <data key="d0">2.55323224786075</data>
+    </node>
+    <node id="CHD9">
+      <data key="d0">3.01964415306878</data>
+    </node>
+    <node id="SOX6">
+      <data key="d0">3.55618618696971</data>
+    </node>
+    <node id="EFNB1">
+      <data key="d0">5.04883515616925</data>
+    </node>
+    <node id="PRKD1">
+      <data key="d0">4.46834486831609</data>
+    </node>
+    <node id="CBX5">
+      <data key="d0">3.5720360354323</data>
+    </node>
+    <node id="RNASEH2A">
+      <data key="d0">3.99409408742117</data>
+    </node>
+    <node id="ARHGAP11B">
+      <data key="d0">4.0225462950808595</data>
+    </node>
+    <node id="MEGF10">
+      <data key="d0">6.0851974654431995</data>
+    </node>
+    <node id="SOX1">
+      <data key="d0">6.20981907287163</data>
+    </node>
+    <node id="TKTL1">
+      <data key="d0">7.001551291561579</data>
+    </node>
+    <node id="PSRC1">
+      <data key="d0">6.9394960789641</data>
+    </node>
+    <node id="MCM2">
+      <data key="d0">7.08487769449282</data>
+    </node>
+    <node id="SFRP1">
+      <data key="d0">8.28220108849972</data>
+    </node>
+    <node id="TFAP2C">
+      <data key="d0">7.74998850641765</data>
+    </node>
+    <node id="NEUROD4">
+      <data key="d0">8.170699562020449</data>
+    </node>
+    <node id="EOMES">
+      <data key="d0">8.39702085629722</data>
+    </node>
+    <node id="NHLH1">
+      <data key="d0">7.6210060136733695</data>
+    </node>
+    <node id="ALDH9A1">
+      <data key="d0">4.67379919608962</data>
+    </node>
+    <node id="NRP1">
+      <data key="d0">4.3357571176193</data>
+    </node>
+    <node id="SPAG9">
+      <data key="d0">5.12769467468148</data>
+    </node>
+    <node id="KLF12">
+      <data key="d0">2.29910461773491</data>
+    </node>
+    <node id="ILDR2">
+      <data key="d0">2.4786712324107203</data>
+    </node>
+    <node id="SH3RF1">
+      <data key="d0">3.4006996401151</data>
+    </node>
+    <node id="CNR1">
+      <data key="d0">1.77372600892613</data>
+    </node>
+    <node id="ZNF608">
+      <data key="d0">2.16826448336087</data>
+    </node>
+    <edge source="TTN" target="CHD9">
+      <data key="d1">0.0263863467274073</data>
+    </edge>
+    <edge source="TTN" target="TKTL1">
+      <data key="d1">0.0266495163747411</data>
+    </edge>
+    <edge source="TTN" target="SFRP1">
+      <data key="d1">0.0279812463207443</data>
+    </edge>
+    <edge source="TTN" target="TFAP2C">
+      <data key="d1">0.0258856237440103</data>
+    </edge>
+    <edge source="TTN" target="NEUROD4">
+      <data key="d1">0.0293730176989859</data>
+    </edge>
+    <edge source="TTN" target="EOMES">
+      <data key="d1">0.0291463903296853</data>
+    </edge>
+    <edge source="TTN" target="NHLH1">
+      <data key="d1">0.0262294492521997</data>
+    </edge>
+    <edge source="DBN1" target="PTOV1">
+      <data key="d1">0.0244585407841137</data>
+    </edge>
+    <edge source="DBN1" target="XRCC5">
+      <data key="d1">0.0591183615958206</data>
+    </edge>
+    <edge source="DBN1" target="HUNK">
+      <data key="d1">0.0324024214530786</data>
+    </edge>
+    <edge source="DBN1" target="SFRP1">
+      <data key="d1">0.0233201103614395</data>
+    </edge>
+    <edge source="OSBPL8" target="PRDX5">
+      <data key="d1">0.0248677879608409</data>
+    </edge>
+    <edge source="OSBPL8" target="KLHL9">
+      <data key="d1">0.0355610465539351</data>
+    </edge>
+    <edge source="OSBPL8" target="KLHL7">
+      <data key="d1">0.0395960656628665</data>
+    </edge>
+    <edge source="OSBPL8" target="NUP93">
+      <data key="d1">0.0308318327983217</data>
+    </edge>
+    <edge source="OSBPL8" target="HPCAL1">
+      <data key="d1">0.0316285060643211</data>
+    </edge>
+    <edge source="OSBPL8" target="MAP4">
+      <data key="d1">0.0433957068606895</data>
+    </edge>
+    <edge source="OSBPL8" target="XRCC5">
+      <data key="d1">0.030786693423518998</data>
+    </edge>
+    <edge source="OSBPL8" target="SH3RF1">
+      <data key="d1">0.0259237582641507</data>
+    </edge>
+    <edge source="PTOV1" target="KLHL7">
+      <data key="d1">0.0435576496062789</data>
+    </edge>
+    <edge source="PTOV1" target="WDR36">
+      <data key="d1">0.0407868549719967</data>
+    </edge>
+    <edge source="PTOV1" target="NUP93">
+      <data key="d1">0.0346583134924074</data>
+    </edge>
+    <edge source="PTOV1" target="HPCAL1">
+      <data key="d1">0.0328705089400139</data>
+    </edge>
+    <edge source="PTOV1" target="MAP4">
+      <data key="d1">0.0410085069302593</data>
+    </edge>
+    <edge source="PTOV1" target="XRCC5">
+      <data key="d1">0.0417702859767219</data>
+    </edge>
+    <edge source="PTOV1" target="CORO1C">
+      <data key="d1">0.0376538502175918</data>
+    </edge>
+    <edge source="TAGLN3" target="KLHL9">
+      <data key="d1">0.0282118392565423</data>
+    </edge>
+    <edge source="TAGLN3" target="KLHL7">
+      <data key="d1">0.0533154029527023</data>
+    </edge>
+    <edge source="TAGLN3" target="NUP93">
+      <data key="d1">0.0428728853771251</data>
+    </edge>
+    <edge source="TAGLN3" target="HPCAL1">
+      <data key="d1">0.0484940577938078</data>
+    </edge>
+    <edge source="TAGLN3" target="MAP4">
+      <data key="d1">0.0275338237682011</data>
+    </edge>
+    <edge source="TAGLN3" target="STAG1">
+      <data key="d1">0.0239544673344202</data>
+    </edge>
+    <edge source="TAGLN3" target="MEIS2">
+      <data key="d1">0.0279593667296918</data>
+    </edge>
+    <edge source="PRDX5" target="KLHL7">
+      <data key="d1">0.0313912346998151</data>
+    </edge>
+    <edge source="PRDX5" target="NUP93">
+      <data key="d1">0.0544266584925373</data>
+    </edge>
+    <edge source="PRDX5" target="HPCAL1">
+      <data key="d1">0.0368711359455308</data>
+    </edge>
+    <edge source="PRDX5" target="MAP4">
+      <data key="d1">0.07669858619830999</data>
+    </edge>
+    <edge source="PRDX5" target="XRCC5">
+      <data key="d1">0.0238191996288134</data>
+    </edge>
+    <edge source="PRDX5" target="CORO1C">
+      <data key="d1">0.0508859821160445</data>
+    </edge>
+    <edge source="PRDX5" target="ILDR2">
+      <data key="d1">0.0244434250447971</data>
+    </edge>
+    <edge source="PRDX5" target="SH3RF1">
+      <data key="d1">0.0485048810368167</data>
+    </edge>
+    <edge source="KLHL9" target="KLHL7">
+      <data key="d1">0.0753839093218762</data>
+    </edge>
+    <edge source="KLHL9" target="WDR36">
+      <data key="d1">0.0371691435223869</data>
+    </edge>
+    <edge source="KLHL9" target="NUP93">
+      <data key="d1">0.0330141956468731</data>
+    </edge>
+    <edge source="KLHL9" target="HPCAL1">
+      <data key="d1">0.0541350409921467</data>
+    </edge>
+    <edge source="KLHL9" target="MAP4">
+      <data key="d1">0.0446701697455285</data>
+    </edge>
+    <edge source="KLHL9" target="STAG1">
+      <data key="d1">0.0441659121267239</data>
+    </edge>
+    <edge source="KLHL9" target="EPHA5">
+      <data key="d1">0.0278158718051151</data>
+    </edge>
+    <edge source="KLHL9" target="UBB">
+      <data key="d1">0.0250711546615245</data>
+    </edge>
+    <edge source="KLHL9" target="RPRD1B">
+      <data key="d1">0.0279197298184922</data>
+    </edge>
+    <edge source="KLHL9" target="XRCC5">
+      <data key="d1">0.0609507154067948</data>
+    </edge>
+    <edge source="KLHL9" target="AMOTL1">
+      <data key="d1">0.040191670434446</data>
+    </edge>
+    <edge source="KLHL9" target="MEIS2">
+      <data key="d1">0.0303729626800471</data>
+    </edge>
+    <edge source="KLHL9" target="HUNK">
+      <data key="d1">0.0531101139385582</data>
+    </edge>
+    <edge source="KLHL9" target="PGAP1">
+      <data key="d1">0.0437304315595451</data>
+    </edge>
+    <edge source="KLHL9" target="CORO1C">
+      <data key="d1">0.0494346090470213</data>
+    </edge>
+    <edge source="KLHL9" target="MKLN1">
+      <data key="d1">0.0385396976918308</data>
+    </edge>
+    <edge source="KLHL9" target="SOX6">
+      <data key="d1">0.0353639193677904</data>
+    </edge>
+    <edge source="KLHL9" target="EFNB1">
+      <data key="d1">0.0524439240518903</data>
+    </edge>
+    <edge source="KLHL9" target="PRKD1">
+      <data key="d1">0.0337348011347718</data>
+    </edge>
+    <edge source="KLHL9" target="MEGF10">
+      <data key="d1">0.0479423902045374</data>
+    </edge>
+    <edge source="KLHL9" target="SOX1">
+      <data key="d1">0.0304924573002999</data>
+    </edge>
+    <edge source="KLHL9" target="TKTL1">
+      <data key="d1">0.0444255241386919</data>
+    </edge>
+    <edge source="KLHL9" target="PSRC1">
+      <data key="d1">0.0386948981171547</data>
+    </edge>
+    <edge source="KLHL9" target="MCM2">
+      <data key="d1">0.0384039802059686</data>
+    </edge>
+    <edge source="KLHL9" target="SFRP1">
+      <data key="d1">0.0578404826164275</data>
+    </edge>
+    <edge source="KLHL9" target="TFAP2C">
+      <data key="d1">0.0386326802463417</data>
+    </edge>
+    <edge source="KLHL9" target="NEUROD4">
+      <data key="d1">0.0425266561584632</data>
+    </edge>
+    <edge source="KLHL9" target="EOMES">
+      <data key="d1">0.0454418159994538</data>
+    </edge>
+    <edge source="KLHL9" target="NHLH1">
+      <data key="d1">0.0373166782857743</data>
+    </edge>
+    <edge source="KLHL9" target="ALDH9A1">
+      <data key="d1">0.0823167200258962</data>
+    </edge>
+    <edge source="KLHL9" target="NRP1">
+      <data key="d1">0.0355287242103604</data>
+    </edge>
+    <edge source="KLHL9" target="SPAG9">
+      <data key="d1">0.052865964126744</data>
+    </edge>
+    <edge source="KLHL9" target="ILDR2">
+      <data key="d1">0.024655525255046003</data>
+    </edge>
+    <edge source="KLHL9" target="SH3RF1">
+      <data key="d1">0.033645219067656</data>
+    </edge>
+    <edge source="KLHL7" target="WDR36">
+      <data key="d1">0.111703096871655</data>
+    </edge>
+    <edge source="KLHL7" target="NUP93">
+      <data key="d1">0.0734767955393651</data>
+    </edge>
+    <edge source="KLHL7" target="HPCAL1">
+      <data key="d1">0.10515002297628</data>
+    </edge>
+    <edge source="KLHL7" target="MAP4">
+      <data key="d1">0.0824680167367186</data>
+    </edge>
+    <edge source="KLHL7" target="EIF4G2">
+      <data key="d1">0.0327333798179267</data>
+    </edge>
+    <edge source="KLHL7" target="STAG1">
+      <data key="d1">0.0455889155810108</data>
+    </edge>
+    <edge source="KLHL7" target="RPRD1B">
+      <data key="d1">0.0478055679231957</data>
+    </edge>
+    <edge source="KLHL7" target="XRCC5">
+      <data key="d1">0.0709668798600621</data>
+    </edge>
+    <edge source="KLHL7" target="AMOTL1">
+      <data key="d1">0.0256014219311516</data>
+    </edge>
+    <edge source="KLHL7" target="MEIS2">
+      <data key="d1">0.0435950793241409</data>
+    </edge>
+    <edge source="KLHL7" target="PPFIBP2">
+      <data key="d1">0.0347378156504437</data>
+    </edge>
+    <edge source="KLHL7" target="HUNK">
+      <data key="d1">0.0562400683222459</data>
+    </edge>
+    <edge source="KLHL7" target="PGAP1">
+      <data key="d1">0.0303652226440482</data>
+    </edge>
+    <edge source="KLHL7" target="CORO1C">
+      <data key="d1">0.0375329865591659</data>
+    </edge>
+    <edge source="KLHL7" target="EFNB1">
+      <data key="d1">0.033440226372601</data>
+    </edge>
+    <edge source="KLHL7" target="ALDH9A1">
+      <data key="d1">0.0403881322093806</data>
+    </edge>
+    <edge source="KLHL7" target="SPAG9">
+      <data key="d1">0.0297355316058614</data>
+    </edge>
+    <edge source="KLHL7" target="SH3RF1">
+      <data key="d1">0.0297607536552691</data>
+    </edge>
+    <edge source="WDR36" target="NUP93">
+      <data key="d1">0.0359267711197001</data>
+    </edge>
+    <edge source="WDR36" target="HPCAL1">
+      <data key="d1">0.0658543082206455</data>
+    </edge>
+    <edge source="WDR36" target="MAP4">
+      <data key="d1">0.0290100668010234</data>
+    </edge>
+    <edge source="WDR36" target="STAG1">
+      <data key="d1">0.0427255061712522</data>
+    </edge>
+    <edge source="WDR36" target="RPRD1B">
+      <data key="d1">0.0400936757502229</data>
+    </edge>
+    <edge source="WDR36" target="XRCC5">
+      <data key="d1">0.0615227862846445</data>
+    </edge>
+    <edge source="WDR36" target="AMOTL1">
+      <data key="d1">0.031554285731723995</data>
+    </edge>
+    <edge source="WDR36" target="MEIS2">
+      <data key="d1">0.0269981085444653</data>
+    </edge>
+    <edge source="WDR36" target="HUNK">
+      <data key="d1">0.0369024329551555</data>
+    </edge>
+    <edge source="WDR36" target="ALDH9A1">
+      <data key="d1">0.0267872222812078</data>
+    </edge>
+    <edge source="NUP93" target="HPCAL1">
+      <data key="d1">0.0690559252377647</data>
+    </edge>
+    <edge source="NUP93" target="MAP4">
+      <data key="d1">0.0869182905394739</data>
+    </edge>
+    <edge source="NUP93" target="EIF4G2">
+      <data key="d1">0.0311753476317614</data>
+    </edge>
+    <edge source="NUP93" target="RPRD1B">
+      <data key="d1">0.0249171488336176</data>
+    </edge>
+    <edge source="NUP93" target="XRCC5">
+      <data key="d1">0.0491577945530016</data>
+    </edge>
+    <edge source="NUP93" target="MEIS2">
+      <data key="d1">0.0389797682741567</data>
+    </edge>
+    <edge source="NUP93" target="PPFIBP2">
+      <data key="d1">0.0312385435552848</data>
+    </edge>
+    <edge source="NUP93" target="HUNK">
+      <data key="d1">0.049250710780624</data>
+    </edge>
+    <edge source="NUP93" target="PGAP1">
+      <data key="d1">0.0441067346594984</data>
+    </edge>
+    <edge source="NUP93" target="EFNB1">
+      <data key="d1">0.0275787027873215</data>
+    </edge>
+    <edge source="NUP93" target="ALDH9A1">
+      <data key="d1">0.0296024538405679</data>
+    </edge>
+    <edge source="NUP93" target="SPAG9">
+      <data key="d1">0.0348439311389658</data>
+    </edge>
+    <edge source="NUP93" target="KLF12">
+      <data key="d1">0.0337778801769504</data>
+    </edge>
+    <edge source="NUP93" target="ILDR2">
+      <data key="d1">0.0349156639494807</data>
+    </edge>
+    <edge source="NUP93" target="SH3RF1">
+      <data key="d1">0.0439114925306018</data>
+    </edge>
+    <edge source="HPCAL1" target="MAP4">
+      <data key="d1">0.100107704625651</data>
+    </edge>
+    <edge source="HPCAL1" target="EIF4G2">
+      <data key="d1">0.0596371770459123</data>
+    </edge>
+    <edge source="HPCAL1" target="SHC3">
+      <data key="d1">0.0440365350921681</data>
+    </edge>
+    <edge source="HPCAL1" target="STAG1">
+      <data key="d1">0.0485985819934864</data>
+    </edge>
+    <edge source="HPCAL1" target="UBB">
+      <data key="d1">0.0554110995229558</data>
+    </edge>
+    <edge source="HPCAL1" target="RPRD1B">
+      <data key="d1">0.0764432519034697</data>
+    </edge>
+    <edge source="HPCAL1" target="XRCC5">
+      <data key="d1">0.0795670203538214</data>
+    </edge>
+    <edge source="HPCAL1" target="AMOTL1">
+      <data key="d1">0.0662337685346169</data>
+    </edge>
+    <edge source="HPCAL1" target="MEIS2">
+      <data key="d1">0.10410181016458601</data>
+    </edge>
+    <edge source="HPCAL1" target="PPFIBP2">
+      <data key="d1">0.0926555030639809</data>
+    </edge>
+    <edge source="HPCAL1" target="HUNK">
+      <data key="d1">0.128936648405691</data>
+    </edge>
+    <edge source="HPCAL1" target="PGAP1">
+      <data key="d1">0.0682298054429496</data>
+    </edge>
+    <edge source="HPCAL1" target="CORO1C">
+      <data key="d1">0.038199325821326</data>
+    </edge>
+    <edge source="HPCAL1" target="EFNB1">
+      <data key="d1">0.0675303900675486</data>
+    </edge>
+    <edge source="HPCAL1" target="PRKD1">
+      <data key="d1">0.0291652808108039</data>
+    </edge>
+    <edge source="HPCAL1" target="MEGF10">
+      <data key="d1">0.0367741798820712</data>
+    </edge>
+    <edge source="HPCAL1" target="TKTL1">
+      <data key="d1">0.0339511251444626</data>
+    </edge>
+    <edge source="HPCAL1" target="SFRP1">
+      <data key="d1">0.035897956401781</data>
+    </edge>
+    <edge source="HPCAL1" target="ALDH9A1">
+      <data key="d1">0.0730802261864694</data>
+    </edge>
+    <edge source="HPCAL1" target="NRP1">
+      <data key="d1">0.0347340930757147</data>
+    </edge>
+    <edge source="HPCAL1" target="SPAG9">
+      <data key="d1">0.071762565144645</data>
+    </edge>
+    <edge source="HPCAL1" target="KLF12">
+      <data key="d1">0.0489026482715291</data>
+    </edge>
+    <edge source="HPCAL1" target="ILDR2">
+      <data key="d1">0.02411180751553</data>
+    </edge>
+    <edge source="HPCAL1" target="SH3RF1">
+      <data key="d1">0.0579560443150395</data>
+    </edge>
+    <edge source="HPCAL1" target="ZNF608">
+      <data key="d1">0.0235924141564165</data>
+    </edge>
+    <edge source="MAP4" target="XRCC5">
+      <data key="d1">0.0647464203055867</data>
+    </edge>
+    <edge source="MAP4" target="MEIS2">
+      <data key="d1">0.0363105604830246</data>
+    </edge>
+    <edge source="MAP4" target="PPFIBP2">
+      <data key="d1">0.0291193647443423</data>
+    </edge>
+    <edge source="MAP4" target="HUNK">
+      <data key="d1">0.0513261868216351</data>
+    </edge>
+    <edge source="MAP4" target="PGAP1">
+      <data key="d1">0.0344840368979733</data>
+    </edge>
+    <edge source="MAP4" target="CORO1C">
+      <data key="d1">0.0371103176944823</data>
+    </edge>
+    <edge source="MAP4" target="EFNB1">
+      <data key="d1">0.0361633341469599</data>
+    </edge>
+    <edge source="MAP4" target="MEGF10">
+      <data key="d1">0.0261298373480445</data>
+    </edge>
+    <edge source="MAP4" target="SFRP1">
+      <data key="d1">0.0235159164800633</data>
+    </edge>
+    <edge source="MAP4" target="ALDH9A1">
+      <data key="d1">0.0411969456743275</data>
+    </edge>
+    <edge source="MAP4" target="SPAG9">
+      <data key="d1">0.0354095633046605</data>
+    </edge>
+    <edge source="MAP4" target="SH3RF1">
+      <data key="d1">0.0506535493037784</data>
+    </edge>
+    <edge source="EIF4G2" target="STAG1">
+      <data key="d1">0.0241613753271882</data>
+    </edge>
+    <edge source="EIF4G2" target="XRCC5">
+      <data key="d1">0.0427467464787615</data>
+    </edge>
+    <edge source="EIF4G2" target="MEIS2">
+      <data key="d1">0.0549501017447315</data>
+    </edge>
+    <edge source="EIF4G2" target="HUNK">
+      <data key="d1">0.0771852289702857</data>
+    </edge>
+    <edge source="EIF4G2" target="PGAP1">
+      <data key="d1">0.030283370001942995</data>
+    </edge>
+    <edge source="EIF4G2" target="EFNB1">
+      <data key="d1">0.0235424262167493</data>
+    </edge>
+    <edge source="EIF4G2" target="ALDH9A1">
+      <data key="d1">0.0337042703915394</data>
+    </edge>
+    <edge source="EIF4G2" target="SPAG9">
+      <data key="d1">0.0529752887026149</data>
+    </edge>
+    <edge source="EIF4G2" target="KLF12">
+      <data key="d1">0.0308522266506725</data>
+    </edge>
+    <edge source="EIF4G2" target="SH3RF1">
+      <data key="d1">0.0413802458400675</data>
+    </edge>
+    <edge source="SHC3" target="UBB">
+      <data key="d1">0.0357591007753244</data>
+    </edge>
+    <edge source="SHC3" target="RPRD1B">
+      <data key="d1">0.0278016556993919</data>
+    </edge>
+    <edge source="SHC3" target="XRCC5">
+      <data key="d1">0.0437846032429345</data>
+    </edge>
+    <edge source="SHC3" target="AMOTL1">
+      <data key="d1">0.031922039354339</data>
+    </edge>
+    <edge source="SHC3" target="MEIS2">
+      <data key="d1">0.0449518864263505</data>
+    </edge>
+    <edge source="SHC3" target="HUNK">
+      <data key="d1">0.0962101615876258</data>
+    </edge>
+    <edge source="SHC3" target="PGAP1">
+      <data key="d1">0.0575892939408746</data>
+    </edge>
+    <edge source="SHC3" target="EFNB1">
+      <data key="d1">0.0307673944294724</data>
+    </edge>
+    <edge source="SHC3" target="ALDH9A1">
+      <data key="d1">0.0606953641372015</data>
+    </edge>
+    <edge source="SHC3" target="SPAG9">
+      <data key="d1">0.0450895238991594</data>
+    </edge>
+    <edge source="SHC3" target="SH3RF1">
+      <data key="d1">0.0285405944664685</data>
+    </edge>
+    <edge source="DCAF7" target="STAG1">
+      <data key="d1">0.142165705438042</data>
+    </edge>
+    <edge source="DCAF7" target="UBB">
+      <data key="d1">0.0234640321606253</data>
+    </edge>
+    <edge source="DCAF7" target="AMOTL1">
+      <data key="d1">0.0341519993431534</data>
+    </edge>
+    <edge source="STAG1" target="UBB">
+      <data key="d1">0.0687440206449161</data>
+    </edge>
+    <edge source="STAG1" target="RPRD1B">
+      <data key="d1">0.0243974158115897</data>
+    </edge>
+    <edge source="STAG1" target="XRCC5">
+      <data key="d1">0.0412363963151602</data>
+    </edge>
+    <edge source="STAG1" target="AMOTL1">
+      <data key="d1">0.0591782211553081</data>
+    </edge>
+    <edge source="STAG1" target="MEIS2">
+      <data key="d1">0.0433440006222644</data>
+    </edge>
+    <edge source="STAG1" target="HUNK">
+      <data key="d1">0.0532746195205255</data>
+    </edge>
+    <edge source="STAG1" target="PGAP1">
+      <data key="d1">0.0292009194414312</data>
+    </edge>
+    <edge source="STAG1" target="CORO1C">
+      <data key="d1">0.0387136615376886</data>
+    </edge>
+    <edge source="STAG1" target="MKLN1">
+      <data key="d1">0.0442002392229231</data>
+    </edge>
+    <edge source="STAG1" target="EFNB1">
+      <data key="d1">0.062561763669087</data>
+    </edge>
+    <edge source="STAG1" target="PRKD1">
+      <data key="d1">0.0269882400708133</data>
+    </edge>
+    <edge source="STAG1" target="MEGF10">
+      <data key="d1">0.0353448475618854</data>
+    </edge>
+    <edge source="STAG1" target="TKTL1">
+      <data key="d1">0.0334504492618154</data>
+    </edge>
+    <edge source="STAG1" target="PSRC1">
+      <data key="d1">0.0285833319839491</data>
+    </edge>
+    <edge source="STAG1" target="MCM2">
+      <data key="d1">0.0319356991320645</data>
+    </edge>
+    <edge source="STAG1" target="SFRP1">
+      <data key="d1">0.0499099075141911</data>
+    </edge>
+    <edge source="STAG1" target="TFAP2C">
+      <data key="d1">0.0309525250984098</data>
+    </edge>
+    <edge source="STAG1" target="NEUROD4">
+      <data key="d1">0.0329466451015636</data>
+    </edge>
+    <edge source="STAG1" target="EOMES">
+      <data key="d1">0.0349717742863334</data>
+    </edge>
+    <edge source="STAG1" target="NHLH1">
+      <data key="d1">0.0291577181759107</data>
+    </edge>
+    <edge source="STAG1" target="ALDH9A1">
+      <data key="d1">0.053202683291217995</data>
+    </edge>
+    <edge source="STAG1" target="NRP1">
+      <data key="d1">0.0313335794906994</data>
+    </edge>
+    <edge source="STAG1" target="SPAG9">
+      <data key="d1">0.0522379824494495</data>
+    </edge>
+    <edge source="EPHA5" target="XRCC5">
+      <data key="d1">0.0244349602061245</data>
+    </edge>
+    <edge source="EPHA5" target="HUNK">
+      <data key="d1">0.0262627572925243</data>
+    </edge>
+    <edge source="EPHA5" target="PGAP1">
+      <data key="d1">0.0257402387736243</data>
+    </edge>
+    <edge source="EPHA5" target="EFNB1">
+      <data key="d1">0.0310521367848436</data>
+    </edge>
+    <edge source="EPHA5" target="PRKD1">
+      <data key="d1">0.0268690075148033</data>
+    </edge>
+    <edge source="EPHA5" target="MEGF10">
+      <data key="d1">0.0366216851348318</data>
+    </edge>
+    <edge source="EPHA5" target="SOX1">
+      <data key="d1">0.0363984812691033</data>
+    </edge>
+    <edge source="EPHA5" target="TKTL1">
+      <data key="d1">0.0586407738807201</data>
+    </edge>
+    <edge source="EPHA5" target="PSRC1">
+      <data key="d1">0.0525021451140315</data>
+    </edge>
+    <edge source="EPHA5" target="MCM2">
+      <data key="d1">0.0593690898333483</data>
+    </edge>
+    <edge source="EPHA5" target="SFRP1">
+      <data key="d1">0.0720231521178253</data>
+    </edge>
+    <edge source="EPHA5" target="TFAP2C">
+      <data key="d1">0.0663611506050427</data>
+    </edge>
+    <edge source="EPHA5" target="NEUROD4">
+      <data key="d1">0.0747932761206183</data>
+    </edge>
+    <edge source="EPHA5" target="EOMES">
+      <data key="d1">0.0786472801835288</data>
+    </edge>
+    <edge source="EPHA5" target="NHLH1">
+      <data key="d1">0.0727563794677263</data>
+    </edge>
+    <edge source="EPHA5" target="ALDH9A1">
+      <data key="d1">0.0331581009582054</data>
+    </edge>
+    <edge source="EPHA5" target="SPAG9">
+      <data key="d1">0.0299307063531329</data>
+    </edge>
+    <edge source="DDX6" target="EFNB1">
+      <data key="d1">0.0262141238551984</data>
+    </edge>
+    <edge source="DDX6" target="CBX5">
+      <data key="d1">0.0271944428410287</data>
+    </edge>
+    <edge source="DDX6" target="MEGF10">
+      <data key="d1">0.0441669886605459</data>
+    </edge>
+    <edge source="DDX6" target="SOX1">
+      <data key="d1">0.0632687740939123</data>
+    </edge>
+    <edge source="DDX6" target="TKTL1">
+      <data key="d1">0.0627308755976162</data>
+    </edge>
+    <edge source="DDX6" target="PSRC1">
+      <data key="d1">0.0739357752437135</data>
+    </edge>
+    <edge source="DDX6" target="MCM2">
+      <data key="d1">0.0744103558852147</data>
+    </edge>
+    <edge source="DDX6" target="SFRP1">
+      <data key="d1">0.0964899681135868</data>
+    </edge>
+    <edge source="DDX6" target="TFAP2C">
+      <data key="d1">0.108126462993298</data>
+    </edge>
+    <edge source="DDX6" target="NEUROD4">
+      <data key="d1">0.0983216005627691</data>
+    </edge>
+    <edge source="DDX6" target="EOMES">
+      <data key="d1">0.10875350387433501</data>
+    </edge>
+    <edge source="DDX6" target="NHLH1">
+      <data key="d1">0.0919871487002057</data>
+    </edge>
+    <edge source="DDX6" target="SPAG9">
+      <data key="d1">0.0232835121775084</data>
+    </edge>
+    <edge source="UBB" target="RPRD1B">
+      <data key="d1">0.0250520667093118</data>
+    </edge>
+    <edge source="UBB" target="XRCC5">
+      <data key="d1">0.0324442559031571</data>
+    </edge>
+    <edge source="UBB" target="AMOTL1">
+      <data key="d1">0.0590075117982495</data>
+    </edge>
+    <edge source="UBB" target="MEIS2">
+      <data key="d1">0.08990691625976802</data>
+    </edge>
+    <edge source="UBB" target="PPFIBP2">
+      <data key="d1">0.0365513306350962</data>
+    </edge>
+    <edge source="UBB" target="HUNK">
+      <data key="d1">0.0887720262755197</data>
+    </edge>
+    <edge source="UBB" target="PGAP1">
+      <data key="d1">0.0532718209002609</data>
+    </edge>
+    <edge source="UBB" target="EFNB1">
+      <data key="d1">0.0643304348944407</data>
+    </edge>
+    <edge source="UBB" target="PRKD1">
+      <data key="d1">0.0470737547609654</data>
+    </edge>
+    <edge source="UBB" target="MEGF10">
+      <data key="d1">0.04442098364529099</data>
+    </edge>
+    <edge source="UBB" target="TKTL1">
+      <data key="d1">0.0447467618416954</data>
+    </edge>
+    <edge source="UBB" target="PSRC1">
+      <data key="d1">0.0261055581575793</data>
+    </edge>
+    <edge source="UBB" target="MCM2">
+      <data key="d1">0.0265169974269547</data>
+    </edge>
+    <edge source="UBB" target="SFRP1">
+      <data key="d1">0.0473088028033795</data>
+    </edge>
+    <edge source="UBB" target="TFAP2C">
+      <data key="d1">0.0275141344873546</data>
+    </edge>
+    <edge source="UBB" target="NEUROD4">
+      <data key="d1">0.0337336141836535</data>
+    </edge>
+    <edge source="UBB" target="EOMES">
+      <data key="d1">0.0342727885596168</data>
+    </edge>
+    <edge source="UBB" target="NHLH1">
+      <data key="d1">0.0300136657277474</data>
+    </edge>
+    <edge source="UBB" target="ALDH9A1">
+      <data key="d1">0.0622035908977394</data>
+    </edge>
+    <edge source="UBB" target="NRP1">
+      <data key="d1">0.0287381290964428</data>
+    </edge>
+    <edge source="UBB" target="SPAG9">
+      <data key="d1">0.0661696392442382</data>
+    </edge>
+    <edge source="UBB" target="SH3RF1">
+      <data key="d1">0.0252707389688711</data>
+    </edge>
+    <edge source="RPRD1B" target="XRCC5">
+      <data key="d1">0.0976332469975209</data>
+    </edge>
+    <edge source="RPRD1B" target="AMOTL1">
+      <data key="d1">0.0604969577324564</data>
+    </edge>
+    <edge source="RPRD1B" target="MEIS2">
+      <data key="d1">0.0789693789533558</data>
+    </edge>
+    <edge source="RPRD1B" target="PPFIBP2">
+      <data key="d1">0.0303610872350308</data>
+    </edge>
+    <edge source="RPRD1B" target="HUNK">
+      <data key="d1">0.10267301446772098</data>
+    </edge>
+    <edge source="RPRD1B" target="PGAP1">
+      <data key="d1">0.0802223955343766</data>
+    </edge>
+    <edge source="RPRD1B" target="CHD9">
+      <data key="d1">0.0312874013922574</data>
+    </edge>
+    <edge source="RPRD1B" target="EFNB1">
+      <data key="d1">0.0627290102474441</data>
+    </edge>
+    <edge source="RPRD1B" target="PRKD1">
+      <data key="d1">0.037085215747384</data>
+    </edge>
+    <edge source="RPRD1B" target="MEGF10">
+      <data key="d1">0.0424566165455402</data>
+    </edge>
+    <edge source="RPRD1B" target="SOX1">
+      <data key="d1">0.0258711884196767</data>
+    </edge>
+    <edge source="RPRD1B" target="TKTL1">
+      <data key="d1">0.0552944759578716</data>
+    </edge>
+    <edge source="RPRD1B" target="PSRC1">
+      <data key="d1">0.0285692654924545</data>
+    </edge>
+    <edge source="RPRD1B" target="MCM2">
+      <data key="d1">0.0323374782327563</data>
+    </edge>
+    <edge source="RPRD1B" target="SFRP1">
+      <data key="d1">0.0536774892204171</data>
+    </edge>
+    <edge source="RPRD1B" target="TFAP2C">
+      <data key="d1">0.032204636897399</data>
+    </edge>
+    <edge source="RPRD1B" target="NEUROD4">
+      <data key="d1">0.0419706112381608</data>
+    </edge>
+    <edge source="RPRD1B" target="EOMES">
+      <data key="d1">0.0422065096764487</data>
+    </edge>
+    <edge source="RPRD1B" target="NHLH1">
+      <data key="d1">0.0370667379515225</data>
+    </edge>
+    <edge source="RPRD1B" target="ALDH9A1">
+      <data key="d1">0.0667076345106483</data>
+    </edge>
+    <edge source="RPRD1B" target="NRP1">
+      <data key="d1">0.0295584397121143</data>
+    </edge>
+    <edge source="RPRD1B" target="SPAG9">
+      <data key="d1">0.0611630353130009</data>
+    </edge>
+    <edge source="RPRD1B" target="SH3RF1">
+      <data key="d1">0.0261213807639094</data>
+    </edge>
+    <edge source="XRCC5" target="AMOTL1">
+      <data key="d1">0.0490911101594202</data>
+    </edge>
+    <edge source="XRCC5" target="MEIS2">
+      <data key="d1">0.0521974182510952</data>
+    </edge>
+    <edge source="XRCC5" target="PPFIBP2">
+      <data key="d1">0.0293882798272283</data>
+    </edge>
+    <edge source="XRCC5" target="HUNK">
+      <data key="d1">0.11317343155270901</data>
+    </edge>
+    <edge source="XRCC5" target="PGAP1">
+      <data key="d1">0.0675589697078949</data>
+    </edge>
+    <edge source="XRCC5" target="CORO1C">
+      <data key="d1">0.0294028466394933</data>
+    </edge>
+    <edge source="XRCC5" target="CHD9">
+      <data key="d1">0.0515410137327707</data>
+    </edge>
+    <edge source="XRCC5" target="EFNB1">
+      <data key="d1">0.0730285002583462</data>
+    </edge>
+    <edge source="XRCC5" target="PRKD1">
+      <data key="d1">0.0389267274374614</data>
+    </edge>
+    <edge source="XRCC5" target="MEGF10">
+      <data key="d1">0.0569956199060714</data>
+    </edge>
+    <edge source="XRCC5" target="SOX1">
+      <data key="d1">0.0414362571445914</data>
+    </edge>
+    <edge source="XRCC5" target="TKTL1">
+      <data key="d1">0.0769155460259554</data>
+    </edge>
+    <edge source="XRCC5" target="PSRC1">
+      <data key="d1">0.0500986802799865</data>
+    </edge>
+    <edge source="XRCC5" target="MCM2">
+      <data key="d1">0.0554490600959697</data>
+    </edge>
+    <edge source="XRCC5" target="SFRP1">
+      <data key="d1">0.0820776105656959</data>
+    </edge>
+    <edge source="XRCC5" target="TFAP2C">
+      <data key="d1">0.0574507862120296</data>
+    </edge>
+    <edge source="XRCC5" target="NEUROD4">
+      <data key="d1">0.0702639012501145</data>
+    </edge>
+    <edge source="XRCC5" target="EOMES">
+      <data key="d1">0.0718493490058596</data>
+    </edge>
+    <edge source="XRCC5" target="NHLH1">
+      <data key="d1">0.0618637594456201</data>
+    </edge>
+    <edge source="XRCC5" target="ALDH9A1">
+      <data key="d1">0.0915923636343714</data>
+    </edge>
+    <edge source="XRCC5" target="NRP1">
+      <data key="d1">0.043259091332316</data>
+    </edge>
+    <edge source="XRCC5" target="SPAG9">
+      <data key="d1">0.066744782269937</data>
+    </edge>
+    <edge source="XRCC5" target="SH3RF1">
+      <data key="d1">0.0369269408554241</data>
+    </edge>
+    <edge source="AMOTL1" target="MEIS2">
+      <data key="d1">0.080254365664776</data>
+    </edge>
+    <edge source="AMOTL1" target="PPFIBP2">
+      <data key="d1">0.0478899471380636</data>
+    </edge>
+    <edge source="AMOTL1" target="HUNK">
+      <data key="d1">0.0945321273267827</data>
+    </edge>
+    <edge source="AMOTL1" target="PGAP1">
+      <data key="d1">0.0720250431219131</data>
+    </edge>
+    <edge source="AMOTL1" target="CORO1C">
+      <data key="d1">0.0310778414425164</data>
+    </edge>
+    <edge source="AMOTL1" target="MKLN1">
+      <data key="d1">0.0371907789394024</data>
+    </edge>
+    <edge source="AMOTL1" target="CHD9">
+      <data key="d1">0.0599092899346061</data>
+    </edge>
+    <edge source="AMOTL1" target="SOX6">
+      <data key="d1">0.0304153885654432</data>
+    </edge>
+    <edge source="AMOTL1" target="EFNB1">
+      <data key="d1">0.10184299605656501</data>
+    </edge>
+    <edge source="AMOTL1" target="PRKD1">
+      <data key="d1">0.0603545705453805</data>
+    </edge>
+    <edge source="AMOTL1" target="MEGF10">
+      <data key="d1">0.0762916290186342</data>
+    </edge>
+    <edge source="AMOTL1" target="SOX1">
+      <data key="d1">0.0443498701599986</data>
+    </edge>
+    <edge source="AMOTL1" target="TKTL1">
+      <data key="d1">0.07420071490854299</data>
+    </edge>
+    <edge source="AMOTL1" target="PSRC1">
+      <data key="d1">0.056527747032197</data>
+    </edge>
+    <edge source="AMOTL1" target="MCM2">
+      <data key="d1">0.0548705843810695</data>
+    </edge>
+    <edge source="AMOTL1" target="SFRP1">
+      <data key="d1">0.0943894743702004</data>
+    </edge>
+    <edge source="AMOTL1" target="TFAP2C">
+      <data key="d1">0.06021673427263401</data>
+    </edge>
+    <edge source="AMOTL1" target="NEUROD4">
+      <data key="d1">0.0667856509847062</data>
+    </edge>
+    <edge source="AMOTL1" target="EOMES">
+      <data key="d1">0.0712757063795812</data>
+    </edge>
+    <edge source="AMOTL1" target="NHLH1">
+      <data key="d1">0.0607218100250359</data>
+    </edge>
+    <edge source="AMOTL1" target="ALDH9A1">
+      <data key="d1">0.11962365112349901</data>
+    </edge>
+    <edge source="AMOTL1" target="NRP1">
+      <data key="d1">0.0774282223233057</data>
+    </edge>
+    <edge source="AMOTL1" target="SPAG9">
+      <data key="d1">0.10992207143633499</data>
+    </edge>
+    <edge source="AMOTL1" target="KLF12">
+      <data key="d1">0.0265075792364321</data>
+    </edge>
+    <edge source="AMOTL1" target="SH3RF1">
+      <data key="d1">0.0338935616774396</data>
+    </edge>
+    <edge source="MEIS2" target="PPFIBP2">
+      <data key="d1">0.15974814552215302</data>
+    </edge>
+    <edge source="MEIS2" target="HUNK">
+      <data key="d1">0.136162867734611</data>
+    </edge>
+    <edge source="MEIS2" target="PGAP1">
+      <data key="d1">0.0874967580375657</data>
+    </edge>
+    <edge source="MEIS2" target="CORO1C">
+      <data key="d1">0.0251222206861323</data>
+    </edge>
+    <edge source="MEIS2" target="CHD9">
+      <data key="d1">0.0340830150411853</data>
+    </edge>
+    <edge source="MEIS2" target="SOX6">
+      <data key="d1">0.0283676895416673</data>
+    </edge>
+    <edge source="MEIS2" target="EFNB1">
+      <data key="d1">0.0844987164669648</data>
+    </edge>
+    <edge source="MEIS2" target="PRKD1">
+      <data key="d1">0.0528236577344083</data>
+    </edge>
+    <edge source="MEIS2" target="MEGF10">
+      <data key="d1">0.0671762190041762</data>
+    </edge>
+    <edge source="MEIS2" target="SOX1">
+      <data key="d1">0.0323187829083123</data>
+    </edge>
+    <edge source="MEIS2" target="TKTL1">
+      <data key="d1">0.0576303787901888</data>
+    </edge>
+    <edge source="MEIS2" target="PSRC1">
+      <data key="d1">0.0369424911973357</data>
+    </edge>
+    <edge source="MEIS2" target="MCM2">
+      <data key="d1">0.0315858252336878</data>
+    </edge>
+    <edge source="MEIS2" target="SFRP1">
+      <data key="d1">0.0661005184883626</data>
+    </edge>
+    <edge source="MEIS2" target="TFAP2C">
+      <data key="d1">0.0367390774927227</data>
+    </edge>
+    <edge source="MEIS2" target="NEUROD4">
+      <data key="d1">0.0415091663030607</data>
+    </edge>
+    <edge source="MEIS2" target="EOMES">
+      <data key="d1">0.0435837380811787</data>
+    </edge>
+    <edge source="MEIS2" target="NHLH1">
+      <data key="d1">0.0370176282270572</data>
+    </edge>
+    <edge source="MEIS2" target="ALDH9A1">
+      <data key="d1">0.0748685333980793</data>
+    </edge>
+    <edge source="MEIS2" target="NRP1">
+      <data key="d1">0.0483035759445388</data>
+    </edge>
+    <edge source="MEIS2" target="SPAG9">
+      <data key="d1">0.126928671342711</data>
+    </edge>
+    <edge source="MEIS2" target="KLF12">
+      <data key="d1">0.0592691967765789</data>
+    </edge>
+    <edge source="MEIS2" target="SH3RF1">
+      <data key="d1">0.0645012370489286</data>
+    </edge>
+    <edge source="MEIS2" target="ZNF608">
+      <data key="d1">0.0350827023270945</data>
+    </edge>
+    <edge source="PPFIBP2" target="HUNK">
+      <data key="d1">0.0895361479207044</data>
+    </edge>
+    <edge source="PPFIBP2" target="PGAP1">
+      <data key="d1">0.0595107860421302</data>
+    </edge>
+    <edge source="PPFIBP2" target="EFNB1">
+      <data key="d1">0.0558042789088766</data>
+    </edge>
+    <edge source="PPFIBP2" target="PRKD1">
+      <data key="d1">0.032125350112999</data>
+    </edge>
+    <edge source="PPFIBP2" target="MEGF10">
+      <data key="d1">0.0434183222030327</data>
+    </edge>
+    <edge source="PPFIBP2" target="TKTL1">
+      <data key="d1">0.0295397359195062</data>
+    </edge>
+    <edge source="PPFIBP2" target="SFRP1">
+      <data key="d1">0.0388375992744199</data>
+    </edge>
+    <edge source="PPFIBP2" target="ALDH9A1">
+      <data key="d1">0.0523831336797966</data>
+    </edge>
+    <edge source="PPFIBP2" target="NRP1">
+      <data key="d1">0.035712265371197996</data>
+    </edge>
+    <edge source="PPFIBP2" target="SPAG9">
+      <data key="d1">0.095277799234771</data>
+    </edge>
+    <edge source="PPFIBP2" target="KLF12">
+      <data key="d1">0.0374953670546363</data>
+    </edge>
+    <edge source="PPFIBP2" target="SH3RF1">
+      <data key="d1">0.0564325211673637</data>
+    </edge>
+    <edge source="PPFIBP2" target="ZNF608">
+      <data key="d1">0.0337126972165033</data>
+    </edge>
+    <edge source="HUNK" target="PGAP1">
+      <data key="d1">0.131742699999167</data>
+    </edge>
+    <edge source="HUNK" target="CORO1C">
+      <data key="d1">0.0365878159239265</data>
+    </edge>
+    <edge source="HUNK" target="MKLN1">
+      <data key="d1">0.0240939791836705</data>
+    </edge>
+    <edge source="HUNK" target="CHD9">
+      <data key="d1">0.0531599702043452</data>
+    </edge>
+    <edge source="HUNK" target="SOX6">
+      <data key="d1">0.04104758171268601</data>
+    </edge>
+    <edge source="HUNK" target="EFNB1">
+      <data key="d1">0.100039993623373</data>
+    </edge>
+    <edge source="HUNK" target="PRKD1">
+      <data key="d1">0.0745052096365624</data>
+    </edge>
+    <edge source="HUNK" target="MEGF10">
+      <data key="d1">0.084641857899621</data>
+    </edge>
+    <edge source="HUNK" target="SOX1">
+      <data key="d1">0.0516221570551921</data>
+    </edge>
+    <edge source="HUNK" target="TKTL1">
+      <data key="d1">0.0969127842337052</data>
+    </edge>
+    <edge source="HUNK" target="PSRC1">
+      <data key="d1">0.060413865209477</data>
+    </edge>
+    <edge source="HUNK" target="MCM2">
+      <data key="d1">0.0585359720892898</data>
+    </edge>
+    <edge source="HUNK" target="SFRP1">
+      <data key="d1">0.0995400780384907</data>
+    </edge>
+    <edge source="HUNK" target="TFAP2C">
+      <data key="d1">0.0649230698712238</data>
+    </edge>
+    <edge source="HUNK" target="NEUROD4">
+      <data key="d1">0.0784952355032189</data>
+    </edge>
+    <edge source="HUNK" target="EOMES">
+      <data key="d1">0.0806832486303603</data>
+    </edge>
+    <edge source="HUNK" target="NHLH1">
+      <data key="d1">0.0689698613205414</data>
+    </edge>
+    <edge source="HUNK" target="ALDH9A1">
+      <data key="d1">0.121545028743589</data>
+    </edge>
+    <edge source="HUNK" target="NRP1">
+      <data key="d1">0.0810692774320306</data>
+    </edge>
+    <edge source="HUNK" target="SPAG9">
+      <data key="d1">0.121917039587589</data>
+    </edge>
+    <edge source="HUNK" target="KLF12">
+      <data key="d1">0.0441460256254668</data>
+    </edge>
+    <edge source="HUNK" target="ILDR2">
+      <data key="d1">0.0336664085747008</data>
+    </edge>
+    <edge source="HUNK" target="SH3RF1">
+      <data key="d1">0.0782132236722056</data>
+    </edge>
+    <edge source="HUNK" target="ZNF608">
+      <data key="d1">0.0307309939608008</data>
+    </edge>
+    <edge source="PGAP1" target="CORO1C">
+      <data key="d1">0.0277139189006185</data>
+    </edge>
+    <edge source="PGAP1" target="MKLN1">
+      <data key="d1">0.0251645533849622</data>
+    </edge>
+    <edge source="PGAP1" target="CHD9">
+      <data key="d1">0.0522673703797965</data>
+    </edge>
+    <edge source="PGAP1" target="SOX6">
+      <data key="d1">0.0476103742717908</data>
+    </edge>
+    <edge source="PGAP1" target="EFNB1">
+      <data key="d1">0.0875539373298194</data>
+    </edge>
+    <edge source="PGAP1" target="PRKD1">
+      <data key="d1">0.0680723725189792</data>
+    </edge>
+    <edge source="PGAP1" target="CBX5">
+      <data key="d1">0.0246886294958313</data>
+    </edge>
+    <edge source="PGAP1" target="MEGF10">
+      <data key="d1">0.104100664959919</data>
+    </edge>
+    <edge source="PGAP1" target="SOX1">
+      <data key="d1">0.0706813208794183</data>
+    </edge>
+    <edge source="PGAP1" target="TKTL1">
+      <data key="d1">0.110408984196263</data>
+    </edge>
+    <edge source="PGAP1" target="PSRC1">
+      <data key="d1">0.0838798118823939</data>
+    </edge>
+    <edge source="PGAP1" target="MCM2">
+      <data key="d1">0.0762394769964935</data>
+    </edge>
+    <edge source="PGAP1" target="SFRP1">
+      <data key="d1">0.120734270366401</data>
+    </edge>
+    <edge source="PGAP1" target="TFAP2C">
+      <data key="d1">0.0882287386075503</data>
+    </edge>
+    <edge source="PGAP1" target="NEUROD4">
+      <data key="d1">0.100097183487511</data>
+    </edge>
+    <edge source="PGAP1" target="EOMES">
+      <data key="d1">0.10376779264349001</data>
+    </edge>
+    <edge source="PGAP1" target="NHLH1">
+      <data key="d1">0.0889871783103253</data>
+    </edge>
+    <edge source="PGAP1" target="ALDH9A1">
+      <data key="d1">0.10311697815589901</data>
+    </edge>
+    <edge source="PGAP1" target="NRP1">
+      <data key="d1">0.0855900868070635</data>
+    </edge>
+    <edge source="PGAP1" target="SPAG9">
+      <data key="d1">0.12659072935022098</data>
+    </edge>
+    <edge source="PGAP1" target="KLF12">
+      <data key="d1">0.0463580382171064</data>
+    </edge>
+    <edge source="PGAP1" target="ILDR2">
+      <data key="d1">0.0454673165571794</data>
+    </edge>
+    <edge source="PGAP1" target="SH3RF1">
+      <data key="d1">0.0647538586463127</data>
+    </edge>
+    <edge source="PGAP1" target="ZNF608">
+      <data key="d1">0.0237870390940077</data>
+    </edge>
+    <edge source="CORO1C" target="MKLN1">
+      <data key="d1">0.0289826356969796</data>
+    </edge>
+    <edge source="CORO1C" target="SOX6">
+      <data key="d1">0.0466009243842399</data>
+    </edge>
+    <edge source="CORO1C" target="EFNB1">
+      <data key="d1">0.070520474485333</data>
+    </edge>
+    <edge source="CORO1C" target="PRKD1">
+      <data key="d1">0.0357262828302908</data>
+    </edge>
+    <edge source="CORO1C" target="RNASEH2A">
+      <data key="d1">0.0308984166469786</data>
+    </edge>
+    <edge source="CORO1C" target="MEGF10">
+      <data key="d1">0.0773843613313039</data>
+    </edge>
+    <edge source="CORO1C" target="SOX1">
+      <data key="d1">0.0518041931774876</data>
+    </edge>
+    <edge source="CORO1C" target="TKTL1">
+      <data key="d1">0.0597706743260832</data>
+    </edge>
+    <edge source="CORO1C" target="PSRC1">
+      <data key="d1">0.069800047923851</data>
+    </edge>
+    <edge source="CORO1C" target="MCM2">
+      <data key="d1">0.0703514360037552</data>
+    </edge>
+    <edge source="CORO1C" target="SFRP1">
+      <data key="d1">0.0907414731479098</data>
+    </edge>
+    <edge source="CORO1C" target="TFAP2C">
+      <data key="d1">0.069649375725768</data>
+    </edge>
+    <edge source="CORO1C" target="NEUROD4">
+      <data key="d1">0.0721231689853365</data>
+    </edge>
+    <edge source="CORO1C" target="EOMES">
+      <data key="d1">0.0747581684159132</data>
+    </edge>
+    <edge source="CORO1C" target="NHLH1">
+      <data key="d1">0.0618996715446814</data>
+    </edge>
+    <edge source="CORO1C" target="ALDH9A1">
+      <data key="d1">0.0562312802947787</data>
+    </edge>
+    <edge source="CORO1C" target="NRP1">
+      <data key="d1">0.0390734862892292</data>
+    </edge>
+    <edge source="CORO1C" target="SPAG9">
+      <data key="d1">0.0568045627756639</data>
+    </edge>
+    <edge source="CORO1C" target="SH3RF1">
+      <data key="d1">0.0399484639418552</data>
+    </edge>
+    <edge source="MKLN1" target="CHD9">
+      <data key="d1">0.0338825140773215</data>
+    </edge>
+    <edge source="MKLN1" target="SOX6">
+      <data key="d1">0.0313995825900541</data>
+    </edge>
+    <edge source="MKLN1" target="EFNB1">
+      <data key="d1">0.0572647602916278</data>
+    </edge>
+    <edge source="MKLN1" target="PRKD1">
+      <data key="d1">0.0427311448576156</data>
+    </edge>
+    <edge source="MKLN1" target="ARHGAP11B">
+      <data key="d1">0.023866311338685</data>
+    </edge>
+    <edge source="MKLN1" target="MEGF10">
+      <data key="d1">0.0685057831911527</data>
+    </edge>
+    <edge source="MKLN1" target="SOX1">
+      <data key="d1">0.0535940302428095</data>
+    </edge>
+    <edge source="MKLN1" target="TKTL1">
+      <data key="d1">0.0681315318907297</data>
+    </edge>
+    <edge source="MKLN1" target="PSRC1">
+      <data key="d1">0.0691819804081265</data>
+    </edge>
+    <edge source="MKLN1" target="MCM2">
+      <data key="d1">0.0748460847504327</data>
+    </edge>
+    <edge source="MKLN1" target="SFRP1">
+      <data key="d1">0.0965771188850817</data>
+    </edge>
+    <edge source="MKLN1" target="TFAP2C">
+      <data key="d1">0.0826765671400091</data>
+    </edge>
+    <edge source="MKLN1" target="NEUROD4">
+      <data key="d1">0.0885140559210053</data>
+    </edge>
+    <edge source="MKLN1" target="EOMES">
+      <data key="d1">0.0909903881563308</data>
+    </edge>
+    <edge source="MKLN1" target="NHLH1">
+      <data key="d1">0.0803318938794646</data>
+    </edge>
+    <edge source="MKLN1" target="ALDH9A1">
+      <data key="d1">0.0501510481642353</data>
+    </edge>
+    <edge source="MKLN1" target="NRP1">
+      <data key="d1">0.0348998976184956</data>
+    </edge>
+    <edge source="MKLN1" target="SPAG9">
+      <data key="d1">0.0464967743719666</data>
+    </edge>
+    <edge source="CHD9" target="SOX6">
+      <data key="d1">0.0238622969007362</data>
+    </edge>
+    <edge source="CHD9" target="EFNB1">
+      <data key="d1">0.0740678419513302</data>
+    </edge>
+    <edge source="CHD9" target="PRKD1">
+      <data key="d1">0.0708232794942551</data>
+    </edge>
+    <edge source="CHD9" target="ARHGAP11B">
+      <data key="d1">0.03020504658267</data>
+    </edge>
+    <edge source="CHD9" target="MEGF10">
+      <data key="d1">0.0929919486514045</data>
+    </edge>
+    <edge source="CHD9" target="SOX1">
+      <data key="d1">0.0650436139796381</data>
+    </edge>
+    <edge source="CHD9" target="TKTL1">
+      <data key="d1">0.10940012600211199</data>
+    </edge>
+    <edge source="CHD9" target="PSRC1">
+      <data key="d1">0.0786348427940107</data>
+    </edge>
+    <edge source="CHD9" target="MCM2">
+      <data key="d1">0.0862771700817117</data>
+    </edge>
+    <edge source="CHD9" target="SFRP1">
+      <data key="d1">0.11637843029525999</data>
+    </edge>
+    <edge source="CHD9" target="TFAP2C">
+      <data key="d1">0.0943049442864343</data>
+    </edge>
+    <edge source="CHD9" target="NEUROD4">
+      <data key="d1">0.11360583205544501</data>
+    </edge>
+    <edge source="CHD9" target="EOMES">
+      <data key="d1">0.11224767278912401</data>
+    </edge>
+    <edge source="CHD9" target="NHLH1">
+      <data key="d1">0.102337453084067</data>
+    </edge>
+    <edge source="CHD9" target="ALDH9A1">
+      <data key="d1">0.0694776188876938</data>
+    </edge>
+    <edge source="CHD9" target="NRP1">
+      <data key="d1">0.0449209315139841</data>
+    </edge>
+    <edge source="CHD9" target="SPAG9">
+      <data key="d1">0.0819849440923409</data>
+    </edge>
+    <edge source="SOX6" target="EFNB1">
+      <data key="d1">0.0684632131006247</data>
+    </edge>
+    <edge source="SOX6" target="PRKD1">
+      <data key="d1">0.0728521490537253</data>
+    </edge>
+    <edge source="SOX6" target="CBX5">
+      <data key="d1">0.0333177975126802</data>
+    </edge>
+    <edge source="SOX6" target="RNASEH2A">
+      <data key="d1">0.0345459905597493</data>
+    </edge>
+    <edge source="SOX6" target="MEGF10">
+      <data key="d1">0.12083772202874901</data>
+    </edge>
+    <edge source="SOX6" target="SOX1">
+      <data key="d1">0.10810099527602099</data>
+    </edge>
+    <edge source="SOX6" target="TKTL1">
+      <data key="d1">0.0946308985320263</data>
+    </edge>
+    <edge source="SOX6" target="PSRC1">
+      <data key="d1">0.11987396198868198</data>
+    </edge>
+    <edge source="SOX6" target="MCM2">
+      <data key="d1">0.10191368794341302</data>
+    </edge>
+    <edge source="SOX6" target="SFRP1">
+      <data key="d1">0.140470290758063</data>
+    </edge>
+    <edge source="SOX6" target="TFAP2C">
+      <data key="d1">0.119900737575501</data>
+    </edge>
+    <edge source="SOX6" target="NEUROD4">
+      <data key="d1">0.11506060423512099</data>
+    </edge>
+    <edge source="SOX6" target="EOMES">
+      <data key="d1">0.123360458535739</data>
+    </edge>
+    <edge source="SOX6" target="NHLH1">
+      <data key="d1">0.100499980620959</data>
+    </edge>
+    <edge source="SOX6" target="ALDH9A1">
+      <data key="d1">0.0704242420484743</data>
+    </edge>
+    <edge source="SOX6" target="NRP1">
+      <data key="d1">0.060926937048812004</data>
+    </edge>
+    <edge source="SOX6" target="SPAG9">
+      <data key="d1">0.0985490600394045</data>
+    </edge>
+    <edge source="SOX6" target="ILDR2">
+      <data key="d1">0.0608532759292614</data>
+    </edge>
+    <edge source="SOX6" target="SH3RF1">
+      <data key="d1">0.0488739839696482</data>
+    </edge>
+    <edge source="SOX6" target="ZNF608">
+      <data key="d1">0.0264268066422556</data>
+    </edge>
+    <edge source="EFNB1" target="PRKD1">
+      <data key="d1">0.11506553305017</data>
+    </edge>
+    <edge source="EFNB1" target="CBX5">
+      <data key="d1">0.0597745993626933</data>
+    </edge>
+    <edge source="EFNB1" target="RNASEH2A">
+      <data key="d1">0.0586713866061133</data>
+    </edge>
+    <edge source="EFNB1" target="ARHGAP11B">
+      <data key="d1">0.0606084194662632</data>
+    </edge>
+    <edge source="EFNB1" target="MEGF10">
+      <data key="d1">0.153982229788831</data>
+    </edge>
+    <edge source="EFNB1" target="SOX1">
+      <data key="d1">0.12834378391426499</data>
+    </edge>
+    <edge source="EFNB1" target="TKTL1">
+      <data key="d1">0.17298060161645998</data>
+    </edge>
+    <edge source="EFNB1" target="PSRC1">
+      <data key="d1">0.14740295701401598</data>
+    </edge>
+    <edge source="EFNB1" target="MCM2">
+      <data key="d1">0.152143944067416</data>
+    </edge>
+    <edge source="EFNB1" target="SFRP1">
+      <data key="d1">0.21706788924335</data>
+    </edge>
+    <edge source="EFNB1" target="TFAP2C">
+      <data key="d1">0.178896845164663</data>
+    </edge>
+    <edge source="EFNB1" target="NEUROD4">
+      <data key="d1">0.195541143584648</data>
+    </edge>
+    <edge source="EFNB1" target="EOMES">
+      <data key="d1">0.200215068660802</data>
+    </edge>
+    <edge source="EFNB1" target="NHLH1">
+      <data key="d1">0.170334674811164</data>
+    </edge>
+    <edge source="EFNB1" target="ALDH9A1">
+      <data key="d1">0.10718035683655301</data>
+    </edge>
+    <edge source="EFNB1" target="NRP1">
+      <data key="d1">0.0935160774158652</data>
+    </edge>
+    <edge source="EFNB1" target="SPAG9">
+      <data key="d1">0.11072785614326</data>
+    </edge>
+    <edge source="EFNB1" target="KLF12">
+      <data key="d1">0.024909869071932003</data>
+    </edge>
+    <edge source="EFNB1" target="ILDR2">
+      <data key="d1">0.0288773609894848</data>
+    </edge>
+    <edge source="EFNB1" target="SH3RF1">
+      <data key="d1">0.0601693190492924</data>
+    </edge>
+    <edge source="EFNB1" target="ZNF608">
+      <data key="d1">0.0337738705383</data>
+    </edge>
+    <edge source="PRKD1" target="CBX5">
+      <data key="d1">0.0451016928718783</data>
+    </edge>
+    <edge source="PRKD1" target="RNASEH2A">
+      <data key="d1">0.0428680166548486</data>
+    </edge>
+    <edge source="PRKD1" target="ARHGAP11B">
+      <data key="d1">0.0539137330125925</data>
+    </edge>
+    <edge source="PRKD1" target="MEGF10">
+      <data key="d1">0.158073389748505</data>
+    </edge>
+    <edge source="PRKD1" target="SOX1">
+      <data key="d1">0.130455348012907</data>
+    </edge>
+    <edge source="PRKD1" target="TKTL1">
+      <data key="d1">0.191978028194465</data>
+    </edge>
+    <edge source="PRKD1" target="PSRC1">
+      <data key="d1">0.157283787413529</data>
+    </edge>
+    <edge source="PRKD1" target="MCM2">
+      <data key="d1">0.15926711121371803</data>
+    </edge>
+    <edge source="PRKD1" target="SFRP1">
+      <data key="d1">0.21414362301133896</data>
+    </edge>
+    <edge source="PRKD1" target="TFAP2C">
+      <data key="d1">0.18631103618696998</data>
+    </edge>
+    <edge source="PRKD1" target="NEUROD4">
+      <data key="d1">0.213559363123242</data>
+    </edge>
+    <edge source="PRKD1" target="EOMES">
+      <data key="d1">0.215125020365284</data>
+    </edge>
+    <edge source="PRKD1" target="NHLH1">
+      <data key="d1">0.18884932789071102</data>
+    </edge>
+    <edge source="PRKD1" target="ALDH9A1">
+      <data key="d1">0.0959024588290561</data>
+    </edge>
+    <edge source="PRKD1" target="NRP1">
+      <data key="d1">0.0707988899945624</data>
+    </edge>
+    <edge source="PRKD1" target="SPAG9">
+      <data key="d1">0.120053462289221</data>
+    </edge>
+    <edge source="PRKD1" target="ILDR2">
+      <data key="d1">0.0271554233767791</data>
+    </edge>
+    <edge source="PRKD1" target="SH3RF1">
+      <data key="d1">0.0443340818500707</data>
+    </edge>
+    <edge source="CBX5" target="RNASEH2A">
+      <data key="d1">0.0516613470879027</data>
+    </edge>
+    <edge source="CBX5" target="ARHGAP11B">
+      <data key="d1">0.0400302715864983</data>
+    </edge>
+    <edge source="CBX5" target="MEGF10">
+      <data key="d1">0.134303982223238</data>
+    </edge>
+    <edge source="CBX5" target="SOX1">
+      <data key="d1">0.173602133624916</data>
+    </edge>
+    <edge source="CBX5" target="TKTL1">
+      <data key="d1">0.14119337181926098</data>
+    </edge>
+    <edge source="CBX5" target="PSRC1">
+      <data key="d1">0.18391894744272697</data>
+    </edge>
+    <edge source="CBX5" target="MCM2">
+      <data key="d1">0.188826459729077</data>
+    </edge>
+    <edge source="CBX5" target="SFRP1">
+      <data key="d1">0.21287530093555104</data>
+    </edge>
+    <edge source="CBX5" target="TFAP2C">
+      <data key="d1">0.24037300380349397</data>
+    </edge>
+    <edge source="CBX5" target="NEUROD4">
+      <data key="d1">0.219963513021665</data>
+    </edge>
+    <edge source="CBX5" target="EOMES">
+      <data key="d1">0.231292832653566</data>
+    </edge>
+    <edge source="CBX5" target="NHLH1">
+      <data key="d1">0.18988329318116198</data>
+    </edge>
+    <edge source="CBX5" target="ALDH9A1">
+      <data key="d1">0.0324746341243381</data>
+    </edge>
+    <edge source="CBX5" target="NRP1">
+      <data key="d1">0.0350619336750891</data>
+    </edge>
+    <edge source="CBX5" target="SPAG9">
+      <data key="d1">0.0459609326481383</data>
+    </edge>
+    <edge source="RNASEH2A" target="ARHGAP11B">
+      <data key="d1">0.0693951761859182</data>
+    </edge>
+    <edge source="RNASEH2A" target="MEGF10">
+      <data key="d1">0.112122418716841</data>
+    </edge>
+    <edge source="RNASEH2A" target="SOX1">
+      <data key="d1">0.168619574499002</data>
+    </edge>
+    <edge source="RNASEH2A" target="TKTL1">
+      <data key="d1">0.16868784413964402</data>
+    </edge>
+    <edge source="RNASEH2A" target="PSRC1">
+      <data key="d1">0.240870103417506</data>
+    </edge>
+    <edge source="RNASEH2A" target="MCM2">
+      <data key="d1">0.28844699287539</data>
+    </edge>
+    <edge source="RNASEH2A" target="SFRP1">
+      <data key="d1">0.252943725929262</data>
+    </edge>
+    <edge source="RNASEH2A" target="TFAP2C">
+      <data key="d1">0.262366500247417</data>
+    </edge>
+    <edge source="RNASEH2A" target="NEUROD4">
+      <data key="d1">0.271150674343321</data>
+    </edge>
+    <edge source="RNASEH2A" target="EOMES">
+      <data key="d1">0.280443893894487</data>
+    </edge>
+    <edge source="RNASEH2A" target="NHLH1">
+      <data key="d1">0.24008828712347696</data>
+    </edge>
+    <edge source="RNASEH2A" target="ALDH9A1">
+      <data key="d1">0.0366942847424433</data>
+    </edge>
+    <edge source="RNASEH2A" target="NRP1">
+      <data key="d1">0.0449634085100693</data>
+    </edge>
+    <edge source="RNASEH2A" target="SPAG9">
+      <data key="d1">0.0429773178651935</data>
+    </edge>
+    <edge source="ARHGAP11B" target="MEGF10">
+      <data key="d1">0.104917159542505</data>
+    </edge>
+    <edge source="ARHGAP11B" target="SOX1">
+      <data key="d1">0.137201911485037</data>
+    </edge>
+    <edge source="ARHGAP11B" target="TKTL1">
+      <data key="d1">0.20613104746778702</data>
+    </edge>
+    <edge source="ARHGAP11B" target="PSRC1">
+      <data key="d1">0.19916869364829298</data>
+    </edge>
+    <edge source="ARHGAP11B" target="MCM2">
+      <data key="d1">0.264462449490059</data>
+    </edge>
+    <edge source="ARHGAP11B" target="SFRP1">
+      <data key="d1">0.248399314440745</data>
+    </edge>
+    <edge source="ARHGAP11B" target="TFAP2C">
+      <data key="d1">0.260208282225599</data>
+    </edge>
+    <edge source="ARHGAP11B" target="NEUROD4">
+      <data key="d1">0.311796122796902</data>
+    </edge>
+    <edge source="ARHGAP11B" target="EOMES">
+      <data key="d1">0.304865287035476</data>
+    </edge>
+    <edge source="ARHGAP11B" target="NHLH1">
+      <data key="d1">0.29653685874582203</data>
+    </edge>
+    <edge source="ARHGAP11B" target="ALDH9A1">
+      <data key="d1">0.0419042646343652</data>
+    </edge>
+    <edge source="ARHGAP11B" target="NRP1">
+      <data key="d1">0.0439635285782887</data>
+    </edge>
+    <edge source="ARHGAP11B" target="SPAG9">
+      <data key="d1">0.0433976499342446</data>
+    </edge>
+    <edge source="MEGF10" target="SOX1">
+      <data key="d1">0.21001261095158302</data>
+    </edge>
+    <edge source="MEGF10" target="TKTL1">
+      <data key="d1">0.228586030512442</data>
+    </edge>
+    <edge source="MEGF10" target="PSRC1">
+      <data key="d1">0.24353091972631302</data>
+    </edge>
+    <edge source="MEGF10" target="MCM2">
+      <data key="d1">0.236254178159833</data>
+    </edge>
+    <edge source="MEGF10" target="SFRP1">
+      <data key="d1">0.30155461826669</data>
+    </edge>
+    <edge source="MEGF10" target="TFAP2C">
+      <data key="d1">0.280126125191123</data>
+    </edge>
+    <edge source="MEGF10" target="NEUROD4">
+      <data key="d1">0.294347377990633</data>
+    </edge>
+    <edge source="MEGF10" target="EOMES">
+      <data key="d1">0.303877410097794</data>
+    </edge>
+    <edge source="MEGF10" target="NHLH1">
+      <data key="d1">0.260087092617027</data>
+    </edge>
+    <edge source="MEGF10" target="ALDH9A1">
+      <data key="d1">0.116448469249471</data>
+    </edge>
+    <edge source="MEGF10" target="NRP1">
+      <data key="d1">0.134256806494961</data>
+    </edge>
+    <edge source="MEGF10" target="SPAG9">
+      <data key="d1">0.142235542987306</data>
+    </edge>
+    <edge source="MEGF10" target="KLF12">
+      <data key="d1">0.0321931018026065</data>
+    </edge>
+    <edge source="MEGF10" target="ILDR2">
+      <data key="d1">0.0734007484068074</data>
+    </edge>
+    <edge source="MEGF10" target="SH3RF1">
+      <data key="d1">0.10713055785226801</data>
+    </edge>
+    <edge source="MEGF10" target="CNR1">
+      <data key="d1">0.0308167526623319</data>
+    </edge>
+    <edge source="MEGF10" target="ZNF608">
+      <data key="d1">0.0402105482953072</data>
+    </edge>
+    <edge source="SOX1" target="TKTL1">
+      <data key="d1">0.275023317302538</data>
+    </edge>
+    <edge source="SOX1" target="PSRC1">
+      <data key="d1">0.311922056274993</data>
+    </edge>
+    <edge source="SOX1" target="MCM2">
+      <data key="d1">0.318672299680437</data>
+    </edge>
+    <edge source="SOX1" target="SFRP1">
+      <data key="d1">0.3823691511241071</data>
+    </edge>
+    <edge source="SOX1" target="TFAP2C">
+      <data key="d1">0.384265933287413</data>
+    </edge>
+    <edge source="SOX1" target="NEUROD4">
+      <data key="d1">0.39206678255935207</data>
+    </edge>
+    <edge source="SOX1" target="EOMES">
+      <data key="d1">0.40917624406643704</data>
+    </edge>
+    <edge source="SOX1" target="NHLH1">
+      <data key="d1">0.346526461066081</data>
+    </edge>
+    <edge source="SOX1" target="ALDH9A1">
+      <data key="d1">0.0840534840802274</data>
+    </edge>
+    <edge source="SOX1" target="NRP1">
+      <data key="d1">0.113034391520431</data>
+    </edge>
+    <edge source="SOX1" target="SPAG9">
+      <data key="d1">0.0991972927017342</data>
+    </edge>
+    <edge source="SOX1" target="ILDR2">
+      <data key="d1">0.0458195777932296</data>
+    </edge>
+    <edge source="SOX1" target="SH3RF1">
+      <data key="d1">0.0521498432244815</data>
+    </edge>
+    <edge source="SOX1" target="CNR1">
+      <data key="d1">0.028752023698562997</data>
+    </edge>
+    <edge source="SOX1" target="ZNF608">
+      <data key="d1">0.0309447264253475</data>
+    </edge>
+    <edge source="TKTL1" target="PSRC1">
+      <data key="d1">0.29368252254752597</data>
+    </edge>
+    <edge source="TKTL1" target="MCM2">
+      <data key="d1">0.326979197409044</data>
+    </edge>
+    <edge source="TKTL1" target="SFRP1">
+      <data key="d1">0.385285489797341</data>
+    </edge>
+    <edge source="TKTL1" target="TFAP2C">
+      <data key="d1">0.381321780415637</data>
+    </edge>
+    <edge source="TKTL1" target="NEUROD4">
+      <data key="d1">0.444426915540696</data>
+    </edge>
+    <edge source="TKTL1" target="EOMES">
+      <data key="d1">0.4467146949082179</data>
+    </edge>
+    <edge source="TKTL1" target="NHLH1">
+      <data key="d1">0.400380570902065</data>
+    </edge>
+    <edge source="TKTL1" target="ALDH9A1">
+      <data key="d1">0.136024077863521</data>
+    </edge>
+    <edge source="TKTL1" target="NRP1">
+      <data key="d1">0.151242849674646</data>
+    </edge>
+    <edge source="TKTL1" target="SPAG9">
+      <data key="d1">0.130266784068498</data>
+    </edge>
+    <edge source="TKTL1" target="ILDR2">
+      <data key="d1">0.0374337601733129</data>
+    </edge>
+    <edge source="TKTL1" target="SH3RF1">
+      <data key="d1">0.0555368633377664</data>
+    </edge>
+    <edge source="TKTL1" target="ZNF608">
+      <data key="d1">0.0238013806512501</data>
+    </edge>
+    <edge source="PSRC1" target="MCM2">
+      <data key="d1">0.360280738526738</data>
+    </edge>
+    <edge source="PSRC1" target="SFRP1">
+      <data key="d1">0.409289224718536</data>
+    </edge>
+    <edge source="PSRC1" target="TFAP2C">
+      <data key="d1">0.41554078529413296</data>
+    </edge>
+    <edge source="PSRC1" target="NEUROD4">
+      <data key="d1">0.43408416279327006</data>
+    </edge>
+    <edge source="PSRC1" target="EOMES">
+      <data key="d1">0.454146414677192</data>
+    </edge>
+    <edge source="PSRC1" target="NHLH1">
+      <data key="d1">0.393882055429784</data>
+    </edge>
+    <edge source="PSRC1" target="ALDH9A1">
+      <data key="d1">0.111850714409886</data>
+    </edge>
+    <edge source="PSRC1" target="NRP1">
+      <data key="d1">0.168709146402366</data>
+    </edge>
+    <edge source="PSRC1" target="SPAG9">
+      <data key="d1">0.128205374780107</data>
+    </edge>
+    <edge source="PSRC1" target="ILDR2">
+      <data key="d1">0.0470586373781977</data>
+    </edge>
+    <edge source="PSRC1" target="SH3RF1">
+      <data key="d1">0.0588494558497984</data>
+    </edge>
+    <edge source="PSRC1" target="CNR1">
+      <data key="d1">0.0340906988056849</data>
+    </edge>
+    <edge source="PSRC1" target="ZNF608">
+      <data key="d1">0.0307198022549975</data>
+    </edge>
+    <edge source="MCM2" target="SFRP1">
+      <data key="d1">0.41131170395136796</data>
+    </edge>
+    <edge source="MCM2" target="TFAP2C">
+      <data key="d1">0.42394556732875</data>
+    </edge>
+    <edge source="MCM2" target="NEUROD4">
+      <data key="d1">0.46335987269836</data>
+    </edge>
+    <edge source="MCM2" target="EOMES">
+      <data key="d1">0.475141008310512</data>
+    </edge>
+    <edge source="MCM2" target="NHLH1">
+      <data key="d1">0.421209659655395</data>
+    </edge>
+    <edge source="MCM2" target="ALDH9A1">
+      <data key="d1">0.10985218443498102</data>
+    </edge>
+    <edge source="MCM2" target="NRP1">
+      <data key="d1">0.15148413757311902</data>
+    </edge>
+    <edge source="MCM2" target="SPAG9">
+      <data key="d1">0.11356127152323499</data>
+    </edge>
+    <edge source="MCM2" target="ILDR2">
+      <data key="d1">0.0340378435120109</data>
+    </edge>
+    <edge source="MCM2" target="SH3RF1">
+      <data key="d1">0.0440126187714039</data>
+    </edge>
+    <edge source="MCM2" target="CNR1">
+      <data key="d1">0.028638671925407002</data>
+    </edge>
+    <edge source="SFRP1" target="TFAP2C">
+      <data key="d1">0.4490992639273</data>
+    </edge>
+    <edge source="SFRP1" target="NEUROD4">
+      <data key="d1">0.448148445325476</data>
+    </edge>
+    <edge source="SFRP1" target="EOMES">
+      <data key="d1">0.45068218936621396</data>
+    </edge>
+    <edge source="SFRP1" target="NHLH1">
+      <data key="d1">0.45033502324203706</data>
+    </edge>
+    <edge source="SFRP1" target="ALDH9A1">
+      <data key="d1">0.159691976709262</data>
+    </edge>
+    <edge source="SFRP1" target="NRP1">
+      <data key="d1">0.207419655767822</data>
+    </edge>
+    <edge source="SFRP1" target="SPAG9">
+      <data key="d1">0.17107240510639096</data>
+    </edge>
+    <edge source="SFRP1" target="ILDR2">
+      <data key="d1">0.0519193808517703</data>
+    </edge>
+    <edge source="SFRP1" target="SH3RF1">
+      <data key="d1">0.0764131812374807</data>
+    </edge>
+    <edge source="SFRP1" target="CNR1">
+      <data key="d1">0.0359324374189904</data>
+    </edge>
+    <edge source="SFRP1" target="ZNF608">
+      <data key="d1">0.0442372962799551</data>
+    </edge>
+    <edge source="TFAP2C" target="NEUROD4">
+      <data key="d1">0.49684755297552</data>
+    </edge>
+    <edge source="TFAP2C" target="EOMES">
+      <data key="d1">0.5182670964548329</data>
+    </edge>
+    <edge source="TFAP2C" target="NHLH1">
+      <data key="d1">0.46937227833144</data>
+    </edge>
+    <edge source="TFAP2C" target="ALDH9A1">
+      <data key="d1">0.123865041132506</data>
+    </edge>
+    <edge source="TFAP2C" target="NRP1">
+      <data key="d1">0.177111364923805</data>
+    </edge>
+    <edge source="TFAP2C" target="SPAG9">
+      <data key="d1">0.135901529977651</data>
+    </edge>
+    <edge source="TFAP2C" target="ILDR2">
+      <data key="d1">0.041877547301330004</data>
+    </edge>
+    <edge source="TFAP2C" target="SH3RF1">
+      <data key="d1">0.0539111243060072</data>
+    </edge>
+    <edge source="TFAP2C" target="CNR1">
+      <data key="d1">0.0357662200424136</data>
+    </edge>
+    <edge source="TFAP2C" target="ZNF608">
+      <data key="d1">0.0318598479263376</data>
+    </edge>
+    <edge source="NEUROD4" target="EOMES">
+      <data key="d1">0.5297153756876339</data>
+    </edge>
+    <edge source="NEUROD4" target="NHLH1">
+      <data key="d1">0.52634331590477</data>
+    </edge>
+    <edge source="NEUROD4" target="ALDH9A1">
+      <data key="d1">0.140589704117986</data>
+    </edge>
+    <edge source="NEUROD4" target="NRP1">
+      <data key="d1">0.185550575887867</data>
+    </edge>
+    <edge source="NEUROD4" target="SPAG9">
+      <data key="d1">0.142777248179623</data>
+    </edge>
+    <edge source="NEUROD4" target="ILDR2">
+      <data key="d1">0.0385413269631375</data>
+    </edge>
+    <edge source="NEUROD4" target="SH3RF1">
+      <data key="d1">0.0525355225307857</data>
+    </edge>
+    <edge source="NEUROD4" target="CNR1">
+      <data key="d1">0.0296391960329908</data>
+    </edge>
+    <edge source="NEUROD4" target="ZNF608">
+      <data key="d1">0.0264896302077358</data>
+    </edge>
+    <edge source="EOMES" target="NHLH1">
+      <data key="d1">0.539604175625902</data>
+    </edge>
+    <edge source="EOMES" target="ALDH9A1">
+      <data key="d1">0.146504631128109</data>
+    </edge>
+    <edge source="EOMES" target="NRP1">
+      <data key="d1">0.199952441851857</data>
+    </edge>
+    <edge source="EOMES" target="SPAG9">
+      <data key="d1">0.151394032048867</data>
+    </edge>
+    <edge source="EOMES" target="ILDR2">
+      <data key="d1">0.0411210537984104</data>
+    </edge>
+    <edge source="EOMES" target="SH3RF1">
+      <data key="d1">0.0551321183756388</data>
+    </edge>
+    <edge source="EOMES" target="CNR1">
+      <data key="d1">0.0328726574249785</data>
+    </edge>
+    <edge source="EOMES" target="ZNF608">
+      <data key="d1">0.0306392230179429</data>
+    </edge>
+    <edge source="NHLH1" target="ALDH9A1">
+      <data key="d1">0.12653209244586</data>
+    </edge>
+    <edge source="NHLH1" target="NRP1">
+      <data key="d1">0.173932069226876</data>
+    </edge>
+    <edge source="NHLH1" target="SPAG9">
+      <data key="d1">0.129269116735683</data>
+    </edge>
+    <edge source="NHLH1" target="ILDR2">
+      <data key="d1">0.0322233418437755</data>
+    </edge>
+    <edge source="NHLH1" target="SH3RF1">
+      <data key="d1">0.0442614067997448</data>
+    </edge>
+    <edge source="NHLH1" target="CNR1">
+      <data key="d1">0.0258412718853915</data>
+    </edge>
+    <edge source="NHLH1" target="ZNF608">
+      <data key="d1">0.0238955906123138</data>
+    </edge>
+    <edge source="ALDH9A1" target="NRP1">
+      <data key="d1">0.12396706655996001</data>
+    </edge>
+    <edge source="ALDH9A1" target="SPAG9">
+      <data key="d1">0.127279231432272</data>
+    </edge>
+    <edge source="ALDH9A1" target="KLF12">
+      <data key="d1">0.0277012043111985</data>
+    </edge>
+    <edge source="ALDH9A1" target="ILDR2">
+      <data key="d1">0.0425007732389238</data>
+    </edge>
+    <edge source="ALDH9A1" target="SH3RF1">
+      <data key="d1">0.0663386662422932</data>
+    </edge>
+    <edge source="ALDH9A1" target="ZNF608">
+      <data key="d1">0.025957627907313003</data>
+    </edge>
+    <edge source="NRP1" target="SPAG9">
+      <data key="d1">0.14868202988839702</data>
+    </edge>
+    <edge source="NRP1" target="ILDR2">
+      <data key="d1">0.0272023012649751</data>
+    </edge>
+    <edge source="NRP1" target="SH3RF1">
+      <data key="d1">0.0419801569604048</data>
+    </edge>
+    <edge source="NRP1" target="ZNF608">
+      <data key="d1">0.0317744980028415</data>
+    </edge>
+    <edge source="SPAG9" target="KLF12">
+      <data key="d1">0.0692036591248062</data>
+    </edge>
+    <edge source="SPAG9" target="ILDR2">
+      <data key="d1">0.0609182820314179</data>
+    </edge>
+    <edge source="SPAG9" target="SH3RF1">
+      <data key="d1">0.11022464090683501</data>
+    </edge>
+    <edge source="SPAG9" target="CNR1">
+      <data key="d1">0.0276912901535892</data>
+    </edge>
+    <edge source="SPAG9" target="ZNF608">
+      <data key="d1">0.0727697163959383</data>
+    </edge>
+    <edge source="KLF12" target="ILDR2">
+      <data key="d1">0.0284481031885748</data>
+    </edge>
+    <edge source="KLF12" target="SH3RF1">
+      <data key="d1">0.082973462281882</data>
+    </edge>
+    <edge source="KLF12" target="ZNF608">
+      <data key="d1">0.0294844588208493</data>
+    </edge>
+    <edge source="ILDR2" target="SH3RF1">
+      <data key="d1">0.0901101231044675</data>
+    </edge>
+    <edge source="ILDR2" target="CNR1">
+      <data key="d1">0.0334837347838956</data>
+    </edge>
+    <edge source="SH3RF1" target="CNR1">
+      <data key="d1">0.0401476278941288</data>
+    </edge>
+    <edge source="SH3RF1" target="ZNF608">
+      <data key="d1">0.0612682277679254</data>
+    </edge>
+    <edge source="CNR1" target="ZNF608">
+      <data key="d1">0.0456570026215174</data>
+    </edge>
+  </graph>
+</graphml>

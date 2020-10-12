@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="double" for="edge" id="d1" />
+  <key attr.name="strength" attr.type="double" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="DYNC1I1">
+      <data key="d0">1.1394249096576499</data>
+    </node>
+    <node id="EFNA5">
+      <data key="d0">1.05124605199232</data>
+    </node>
+    <node id="SORCS1">
+      <data key="d0">1.30100695554902</data>
+    </node>
+    <node id="USP2">
+      <data key="d0">1.16464721206047</data>
+    </node>
+    <node id="JMJD1C">
+      <data key="d0">1.1520108911641103</data>
+    </node>
+    <node id="CDKL5">
+      <data key="d0">1.31210042542945</data>
+    </node>
+    <node id="ZBTB18">
+      <data key="d0">1.36100383149752</data>
+    </node>
+    <edge source="DYNC1I1" target="EFNA5">
+      <data key="d1">0.0236474566698706</data>
+    </edge>
+    <edge source="DYNC1I1" target="CDKL5">
+      <data key="d1">0.0301113535413321</data>
+    </edge>
+    <edge source="DYNC1I1" target="ZBTB18">
+      <data key="d1">0.0213979117375354</data>
+    </edge>
+    <edge source="SORCS1" target="USP2">
+      <data key="d1">0.0567012341735895</data>
+    </edge>
+    <edge source="SORCS1" target="JMJD1C">
+      <data key="d1">0.0120265358465573</data>
+    </edge>
+    <edge source="SORCS1" target="CDKL5">
+      <data key="d1">0.0221464675136491</data>
+    </edge>
+    <edge source="SORCS1" target="ZBTB18">
+      <data key="d1">0.0555695860563864</data>
+    </edge>
+    <edge source="USP2" target="CDKL5">
+      <data key="d1">0.00539779027286468</data>
+    </edge>
+    <edge source="USP2" target="ZBTB18">
+      <data key="d1">0.0105525980973418</data>
+    </edge>
+    <edge source="JMJD1C" target="CDKL5">
+      <data key="d1">0.0276985356537338</data>
+    </edge>
+    <edge source="JMJD1C" target="ZBTB18">
+      <data key="d1">0.0680215869893891</data>
+    </edge>
+    <edge source="CDKL5" target="ZBTB18">
+      <data key="d1">0.11288958077197399</data>
+    </edge>
+  </graph>
+</graphml>

@@ -7,7 +7,7 @@ options(stringsAsFactors = FALSE);
 for (pos_or_neg in c('positive', 'negative')){
 
   # load residualised RPKM data (5287 genes)
-  all_data <- read.csv('data/PsychENCODE-prenatal-bulk-RPKM-data-scRNA-filtered-Winsor-log2-residualised.csv')
+  all_data <- read.csv('data/processed_psychencode/PsychENCODE-prenatal-bulk-RPKM-data-scRNA-filtered-Winsor-log2-residualised.csv')
 
   # pivot to wide format
   expr_data <- select(all_data, c(symbol, sample, region, mean_nl_residuals))  %>%
@@ -21,7 +21,7 @@ for (pos_or_neg in c('positive', 'negative')){
 
   # keep only genes-of-interest
   # significant genes
-  sig_genes <- read.csv('results/PCA_correlations-KendallTau-PC-significant_genes-p0.05.csv')
+  sig_genes <- read.csv('results/gene_correlations/PCA_correlations-KendallTau-PC-significant_genes-p0.05.csv')
   if (pos_or_neg=='positive'){
     sig_genes <- sig_genes[sig_genes$PC1_tau>0,]$symbol
     } else {
@@ -106,14 +106,14 @@ for (pos_or_neg in c('positive', 'negative')){
   moduleid <- modLabels
   node_strength <- rowSums(TOMmat)
   node_info <- cbind(gene_names, moduleid, module_order, node_strength)
-  outfile <- paste('results/WCGNA', pos_or_neg, 'node_modules.csv', sep='_')
+  outfile <- paste('results/wgcna/WGCNA', pos_or_neg, 'node_modules.csv', sep='_')
   write.csv(node_info, outfile, quote = FALSE)
 
   # save TOM matrix
   tom_matrix <- as.matrix(TOMmat)
   rownames(tom_matrix) <- gene_names
   colnames(tom_matrix) <- gene_names
-  outfile <- paste('results/WCGNA', pos_or_neg, 'TOM_matrix.csv', sep='_')
+  outfile <- paste('results/wgcna/WGCNA', pos_or_neg, 'TOM_matrix.csv', sep='_')
   write.csv(tom_matrix, outfile, quote = FALSE)
 
 }

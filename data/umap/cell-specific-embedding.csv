@@ -1,0 +1,87 @@
+cluster_study,cluster,class,study,timing,umap1,umap2
+Astro_1_fan,Astro_1,astrocyte,fan,mature,5.362203121185303,-2.5190224647521973
+Astro_2_fan,Astro_2,astrocyte,fan,mature,5.445429801940918,-3.208915948867798
+Astro_prenatal_psychENCODE,Astro_prenatal,astrocyte,psychENCODE,mature,5.641582012176514,-2.6448252201080322
+Astrocyte_kriegstein,Astrocyte,astrocyte,kriegstein,mature,4.9512786865234375,-2.2437245845794678
+Cycling progenitor G2/M phase (PgG2M)_geschwind,Cycling progenitor G2/M phase (PgG2M),progenitor,geschwind,precursor,0.13173970580101013,-3.715648651123047
+Cycling progenitor S phase (PgS)_geschwind,Cycling progenitor S phase (PgS),progenitor,geschwind,precursor,0.5386508703231812,-1.5531562566757202
+EN-PFC1_kriegstein,EN-PFC1,neuron_excitatory,kriegstein,mature,0.6117862462997437,0.6378031969070435
+EN-PFC2_kriegstein,EN-PFC2,neuron_excitatory,kriegstein,mature,-0.7935971617698669,1.313354730606079
+EN-PFC3_kriegstein,EN-PFC3,neuron_excitatory,kriegstein,mature,-0.4145684242248535,0.639387309551239
+EN-V1-1_kriegstein,EN-V1-1,neuron_excitatory,kriegstein,mature,0.2497231662273407,0.435160368680954
+EN-V1-2_kriegstein,EN-V1-2,neuron_excitatory,kriegstein,mature,-0.6932608485221863,0.9645450115203857
+EN-V1-3_kriegstein,EN-V1-3,neuron_excitatory,kriegstein,mature,-1.420185923576355,0.6003653407096863
+Endo_1_fan,Endo_1,endothelial,fan,mature,5.491377353668213,-2.875162363052368
+Endo_2_fan,Endo_2,endothelial,fan,mature,5.222317218780518,-3.160010576248169
+Endo_prenatal_psychENCODE,Endo_prenatal,endothelial,psychENCODE,mature,5.708187580108643,-3.0204482078552246
+Endothelial (End)_geschwind,Endothelial (End),endothelial,geschwind,mature,2.188326835632324,-1.145880937576294
+Endothelial_kriegstein,Endothelial,endothelial,kriegstein,mature,4.3361945152282715,-2.531968593597412
+ExN_prenatal_psychENCODE,ExN_prenatal,neuron_excitatory,psychENCODE,mature,-1.3850947618484497,0.7191900014877319
+Ex_1_fan,Ex_1,neuron_excitatory,fan,mature,-0.4684499502182007,0.4433760941028595
+Ex_2_fan,Ex_2,neuron_excitatory,fan,mature,0.365031361579895,-4.316354274749756
+Ex_4_fan,Ex_4,neuron_excitatory,fan,mature,-1.7493494749069214,0.30356740951538086
+Excitatory deep layer 1 (ExDp1)_geschwind,Excitatory deep layer 1 (ExDp1),neuron_excitatory,geschwind,mature,0.33090877532958984,1.4802727699279785
+Excitatory deep layer 2 (ExDp2)_geschwind,Excitatory deep layer 2 (ExDp2),neuron_excitatory,geschwind,mature,-0.1383318156003952,1.3662364482879639
+IN-CTX-CGE1_kriegstein,IN-CTX-CGE1,neuron_inhibitory,kriegstein,mature,-1.4087971448898315,-0.3851962685585022
+IN-CTX-CGE2_kriegstein,IN-CTX-CGE2,neuron_inhibitory,kriegstein,mature,-1.3359845876693726,-0.6959279775619507
+IN-CTX-MGE1_kriegstein,IN-CTX-MGE1,neuron_inhibitory,kriegstein,mature,-1.1588798761367798,-0.9309009313583374
+IN-CTX-MGE2_kriegstein,IN-CTX-MGE2,neuron_inhibitory,kriegstein,mature,-1.0536630153656006,-0.3255910873413086
+IPC-div1_kriegstein,IPC-div1,progenitor,kriegstein,precursor,0.0031827224884182215,-4.581358909606934
+IPC-div2_kriegstein,IPC-div2,progenitor,kriegstein,precursor,-0.14622430503368378,-3.963567018508911
+IPC-nEN1_kriegstein,IPC-nEN1,progenitor,kriegstein,precursor,0.13796842098236084,-3.036710023880005
+IPC-nEN2_kriegstein,IPC-nEN2,progenitor,kriegstein,precursor,0.31363049149513245,-1.4593662023544312
+IPC-nEN3_kriegstein,IPC-nEN3,progenitor,kriegstein,precursor,0.2707221508026123,-2.4682512283325195
+IP_geschwind,IP,progenitor,geschwind,precursor,0.9461581110954285,0.24454115331172943
+InN_prenatal_psychENCODE,InN_prenatal,neuron_inhibitory,psychENCODE,mature,-1.4982659816741943,-1.5463069677352905
+In_1_fan,In_1,neuron_inhibitory,fan,mature,4.121837615966797,-1.231766939163208
+In_2_fan,In_2,neuron_inhibitory,fan,mature,3.7792348861694336,-1.372059941291809
+In_3_fan,In_3,neuron_inhibitory,fan,mature,4.591002941131592,-1.3274564743041992
+In_4_fan,In_4,neuron_inhibitory,fan,mature,4.365563869476318,-1.046392798423767
+In_5_fan,In_5,neuron_inhibitory,fan,mature,-2.1300652027130127,-1.1321711540222168
+In_6_fan,In_6,neuron_inhibitory,fan,mature,-2.334780216217041,-0.9249950647354126
+In_8_fan,In_8,neuron_inhibitory,fan,mature,-2.0941855907440186,-0.5315461754798889
+Interneuron CGE (InCGE)_geschwind,Interneuron CGE (InCGE),neuron_inhibitory,geschwind,mature,0.8614515662193298,1.2513571977615356
+Interneuron MGE (InMGE)_geschwind,Interneuron MGE (InMGE),neuron_inhibitory,geschwind,mature,0.35292258858680725,1.0242831707000732
+MGE-IPC1_kriegstein,MGE-IPC1,progenitor,kriegstein,precursor,-0.12110155820846558,-4.812760829925537
+MGE-IPC2_kriegstein,MGE-IPC2,progenitor,kriegstein,precursor,0.34124013781547546,-4.522158145904541
+MGE-IPC3_kriegstein,MGE-IPC3,progenitor,kriegstein,precursor,-0.26203054189682007,-1.9484070539474487
+MGE-RG1_kriegstein,MGE-RG1,radial_glia,kriegstein,precursor,3.453378677368164,-2.4593429565429688
+MGE-RG2_kriegstein,MGE-RG2,radial_glia,kriegstein,precursor,0.9700618386268616,-2.2550947666168213
+MGE-div_kriegstein,MGE-div,progenitor,kriegstein,precursor,-0.24971522390842438,-4.2472124099731445
+Maturing excitatory (ExM)_geschwind,Maturing excitatory (ExM),neuron_excitatory,geschwind,mature,0.505283772945404,0.9773737788200378
+Maturing excitatory upper enriched (ExM-U)_geschwind,Maturing excitatory upper enriched (ExM-U),neuron_excitatory,geschwind,mature,-0.0952693447470665,1.088460922241211
+Micro_1_fan,Micro_1,microglia,fan,mature,0.669258177280426,-4.648382663726807
+Micro_2_fan,Micro_2,microglia,fan,mature,4.905952453613281,-3.683622360229492
+Micro_3_fan,Micro_3,microglia,fan,mature,4.566193580627441,-3.41231369972229
+Microglia (Mic)_geschwind,Microglia (Mic),microglia,geschwind,mature,3.45089054107666,-2.029865026473999
+Microglia_kriegstein,Microglia,microglia,kriegstein,mature,4.186272144317627,-2.9015750885009766
+Microglia_prenatal_psychENCODE,Microglia_prenatal,microglia,psychENCODE,mature,4.936258792877197,-3.431471347808838
+Migrating excitatory (ExN)_geschwind,Migrating excitatory (ExN),neuron_excitatory,geschwind,mature,0.9997525811195374,0.8363344073295593
+NPC_prenatal_psychENCODE,NPC_prenatal,progenitor,psychENCODE,precursor,0.26592522859573364,-5.10807466506958
+NSC_1_fan,NSC_1,progenitor,fan,precursor,4.74377965927124,-2.7761807441711426
+NSC_2_fan,NSC_2,progenitor,fan,precursor,0.4436310827732086,-4.881494522094727
+Neural_progenitor_pollen,Neural_progenitor,progenitor,pollen,precursor,-0.34422940015792847,-4.370671272277832
+Neuronal_pollen,Neuronal,neuron,pollen,mature,-1.3006881475448608,0.8279558420181274
+OPC_fan,OPC,OPC,fan,precursor,4.8773064613342285,-1.9590593576431274
+OPC_kriegstein,OPC,OPC,kriegstein,precursor,3.8353476524353027,-1.8273119926452637
+Olig_fan,Olig,oligodendrocyte,fan,mature,4.04956579208374,-2.0031330585479736
+Oligo_prenatal_psychENCODE,Oligo_prenatal,oligodendrocyte,psychENCODE,mature,4.590125560760498,-2.7869482040405273
+Oligodendrocyte precursor (OPC)_geschwind,Oligodendrocyte precursor (OPC),OPC,geschwind,precursor,1.4918075799942017,-0.7566447257995605
+Pericyte (Per)_geschwind,Pericyte (Per),pericyte,geschwind,mature,3.3840181827545166,-1.8225905895233154
+RG-div1_kriegstein,RG-div1,radial_glia,kriegstein,precursor,0.8150016665458679,-2.7617881298065186
+RG-div2_kriegstein,RG-div2,radial_glia,kriegstein,precursor,1.9070603847503662,-2.111769437789917
+RG-early_kriegstein,RG-early,radial_glia,kriegstein,precursor,0.4706779718399048,-2.2953031063079834
+Radial_glia_pollen,Radial_glia,radial_glia,pollen,precursor,4.47691011428833,-2.398228406906128
+nEN-early1_kriegstein,nEN-early1,neuron_excitatory,kriegstein,mature,0.5104039311408997,-0.09768220782279968
+nEN-early2_kriegstein,nEN-early2,neuron_excitatory,kriegstein,mature,0.12159232795238495,-0.1852255016565323
+nEN-late_kriegstein,nEN-late,neuron_excitatory,kriegstein,mature,0.16661898791790009,-0.8048251271247864
+nIN1_kriegstein,nIN1,neuron_inhibitory,kriegstein,mature,-1.3921542167663574,-1.4169431924819946
+nIN2_kriegstein,nIN2,neuron_inhibitory,kriegstein,mature,-0.6562575697898865,-0.7580506205558777
+nIN3_kriegstein,nIN3,neuron_inhibitory,kriegstein,mature,-1.1170315742492676,-1.2459561824798584
+nIN4_kriegstein,nIN4,neuron_inhibitory,kriegstein,mature,-1.6653621196746826,-0.9656096696853638
+nIN5_kriegstein,nIN5,neuron_inhibitory,kriegstein,mature,-0.8702077865600586,-0.9556410312652588
+oRG_geschwind,oRG,radial_glia,geschwind,precursor,1.691856861114502,-1.5500524044036865
+oRG_kriegstein,oRG,radial_glia,kriegstein,precursor,3.059689998626709,-1.7582950592041016
+tRG_kriegstein,tRG,radial_glia,kriegstein,precursor,2.69248104095459,-2.0692551136016846
+vRG_geschwind,vRG,radial_glia,geschwind,precursor,1.5070778131484985,-1.0413227081298828
+vRG_kriegstein,vRG,radial_glia,kriegstein,precursor,2.5438127517700195,-2.0866734981536865

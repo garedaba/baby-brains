@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="double" for="edge" id="d1" />
+  <key attr.name="strength" attr.type="double" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="TBC1D4">
+      <data key="d0">1.09622343746962</data>
+    </node>
+    <node id="BCAP29">
+      <data key="d0">1.0907978344127098</data>
+    </node>
+    <node id="PCDH7">
+      <data key="d0">1.1304699863051202</data>
+    </node>
+    <node id="ACTN2">
+      <data key="d0">1.18714265587147</data>
+    </node>
+    <node id="PTPN2">
+      <data key="d0">1.2590817493274098</data>
+    </node>
+    <node id="LDLRAD4">
+      <data key="d0">1.12221887293334</data>
+    </node>
+    <node id="SSX2IP">
+      <data key="d0">1.1486964771851103</data>
+    </node>
+    <edge source="TBC1D4" target="ACTN2">
+      <data key="d1">0.0167077395006981</data>
+    </edge>
+    <edge source="TBC1D4" target="LDLRAD4">
+      <data key="d1">0.008749110507213909</data>
+    </edge>
+    <edge source="BCAP29" target="PTPN2">
+      <data key="d1">0.0104079232590212</data>
+    </edge>
+    <edge source="BCAP29" target="SSX2IP">
+      <data key="d1">0.0159060229448778</data>
+    </edge>
+    <edge source="PCDH7" target="PTPN2">
+      <data key="d1">0.0122314249919909</data>
+    </edge>
+    <edge source="PCDH7" target="LDLRAD4">
+      <data key="d1">0.0158345203736305</data>
+    </edge>
+    <edge source="PCDH7" target="SSX2IP">
+      <data key="d1">0.016599533167058998</data>
+    </edge>
+    <edge source="ACTN2" target="PTPN2">
+      <data key="d1">0.0781969556183387</data>
+    </edge>
+    <edge source="ACTN2" target="LDLRAD4">
+      <data key="d1">0.0148659111176113</data>
+    </edge>
+    <edge source="PTPN2" target="LDLRAD4">
+      <data key="d1">0.0137187453488591</data>
+    </edge>
+    <edge source="PTPN2" target="SSX2IP">
+      <data key="d1">0.0371396380829265</data>
+    </edge>
+    <edge source="LDLRAD4" target="SSX2IP">
+      <data key="d1">0.0447292013856622</data>
+    </edge>
+  </graph>
+</graphml>

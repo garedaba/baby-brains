@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="double" for="edge" id="d1" />
+  <key attr.name="strength" attr.type="double" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="BACE2">
+      <data key="d0">1.04510242062399</data>
+    </node>
+    <node id="SH2B3">
+      <data key="d0">1.07519009265396</data>
+    </node>
+    <node id="CAP2">
+      <data key="d0">1.23183409155727</data>
+    </node>
+    <node id="DUSP7">
+      <data key="d0">1.22514338091477</data>
+    </node>
+    <node id="SYT6">
+      <data key="d0">1.09455587803056</data>
+    </node>
+    <node id="PDZD2">
+      <data key="d0">1.20849940524683</data>
+    </node>
+    <node id="ST3GAL1">
+      <data key="d0">1.2244801106566598</data>
+    </node>
+    <edge source="BACE2" target="SYT6">
+      <data key="d1">0.0138025185086465</data>
+    </edge>
+    <edge source="BACE2" target="PDZD2">
+      <data key="d1">0.0100533384435744</data>
+    </edge>
+    <edge source="SH2B3" target="PDZD2">
+      <data key="d1">0.0107175370186902</data>
+    </edge>
+    <edge source="SH2B3" target="ST3GAL1">
+      <data key="d1">0.0291836447135529</data>
+    </edge>
+    <edge source="CAP2" target="DUSP7">
+      <data key="d1">0.0689508263652018</data>
+    </edge>
+    <edge source="CAP2" target="PDZD2">
+      <data key="d1">0.0158956317184355</data>
+    </edge>
+    <edge source="CAP2" target="ST3GAL1">
+      <data key="d1">0.0359488579235893</data>
+    </edge>
+    <edge source="DUSP7" target="PDZD2">
+      <data key="d1">0.0083715137372473</data>
+    </edge>
+    <edge source="DUSP7" target="ST3GAL1">
+      <data key="d1">0.0184759505460082</data>
+    </edge>
+    <edge source="SYT6" target="PDZD2">
+      <data key="d1">0.0467444882343179</data>
+    </edge>
+    <edge source="SYT6" target="ST3GAL1">
+      <data key="d1">0.00952151678050174</data>
+    </edge>
+    <edge source="PDZD2" target="ST3GAL1">
+      <data key="d1">0.0501790479830507</data>
+    </edge>
+  </graph>
+</graphml>
