@@ -4,7 +4,6 @@ figures/.ipynb_checkpoints
 r_code/.Rhistory
 .gitignore
 # large files
-data/validation/scRNA-TPM-data-scRNA-filtered.csv
 results/gene_models/gene-data-corrected.csv
 results/gene_models/prenatal-gene-trajectories-by-region.csv
 results/gene_models/W5-gene-data-corrected.csv
