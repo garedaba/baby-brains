@@ -57,7 +57,7 @@ def main():
             mod_info = ordered_node_info.loc[ordered_node_info.moduleid==i,:]
             graph = convert_to_network(mod_data, mod_info)
 
-            nx.write_graphml(graph, 'results/WCGNA_'+pos_or_neg+'_module_' + str(i) + '.graphml')
+            nx.write_graphml(graph, 'results/wgcna/WCGNA_'+pos_or_neg+'_module_' + str(i) + '.graphml')
             print('see: results/wgcna/WGCNA_'+pos_or_neg+'_module_' + str(i) + '.graphml')
     print("")
     print('see results/wgcna/WGCNA*graphml files for visualisation of module networks in Cytoscape (or your choice of software)')
