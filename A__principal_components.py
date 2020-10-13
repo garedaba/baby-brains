@@ -114,9 +114,9 @@ def calculate_xy(data, scaler, eigen_vectors):
         explained_variance = np.var(subject_PCs,0)/sum(np.var(subject_PCs,0))
 
         # x,y coordinates for each subject in PC space
-        subject_coordinates = pd.DataFrame([(subject_data.columns.values), subject_PCs[:,0]]).T
+        subject_coordinates = pd.DataFrame([(subject_data.columns.values), subject_PCs[:,0], subject_PCs[:,1]]).T
 
-        subject_coordinates.columns = ['region', 'PC1']
+        subject_coordinates.columns = ['region', 'PC1', 'PC2']
         subject_coordinates.insert(1, column='EV1', value=[explained_variance[0]]*len(subject_PCs))
         subject_coordinates.insert(0,column='ids',value=[s]*len(subject_PCs))
         subject_coordinates.loc[subject_coordinates.loc[:,'ids']==s, 'age_at_scan'] = data.loc[data.loc[:,'ids']==s,'age_at_scan'].values[0]

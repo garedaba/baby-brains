@@ -4,6 +4,7 @@ figures/.ipynb_checkpoints
 r_code/.Rhistory
 .gitignore
 # large files
+data/processed_psychencode/PsychENCODE-prenatal-bulk-RPKM-data-scRNA-filtered-Winsor-log2-residualised.csv
 results/gene_models/gene-data-corrected.csv
 results/gene_models/prenatal-gene-trajectories-by-region.csv
 results/gene_models/W5-gene-data-corrected.csv
